@@ -4,20 +4,28 @@
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png",VTV2 HD
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 #EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png",VTV3 HD
 https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://i.ibb.co/1nWtV9B/VTV4-HD-BEARTV.png",VTV4 HD
-https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:0 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://i.ibb.co/3FkgpPp/VTV5-HD-BEARTV.png",VTV5 HD
-https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png",VTV6 HD
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:0 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://i.ibb.co/27xvxDJ/VTV7-HD-BEARTV.png",VTV7 HD
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #EXTINF:0 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png",VTV8 HD
-https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",VTV9 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="VTV5 TÂY NAM BỘ"group-title="VTV" tvg-logo="https://i.ibb.co/L97YQt3/VTV5-HD-TNB-BEARTV.png",VTV5 HD Tây Nam Bộ
@@ -40,31 +48,39 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/sCyb2j3/BEARTVQR.jpg" ,Bear TV quét mã QR Zalo
 https://media.publit.io/file/bearlivetv.mp4
-#EXTINF:-1 tvg-id="kplus1hd" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" ,K+1 HD
+#EXTINF:-1 tvg-id="kpluspmhd" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/q02m7Xv/K-PM-HD-BEARTV.png" ,K+PM HD
 https://live.quangkv.com/vieon/kns.m3u8
 
 
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv"group-title="VTVCab" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",VTVCab1 - Vie Giải Trí
-http://quocthai.duckdns.org:18886/rtp/232.84.1.143:8832
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.143:8832
+http://113.180.80.177:8080/vieonhthanh.php?id=ef9064fa-b31a-4bed-b19b-183752191248
 #EXTINF:0 tvg-id="VTVcab 2 - Phim Việt"group-title="VTVCab" tvg-logo="https://i.ibb.co/XxJL4BC/VTVCAB2-BEARTV.png",VTVCab2 - Phim Việt
-http://quocthai.duckdns.org:18886/rtp/232.84.1.168:8982
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.168:8982
+http://s3.nihontv.net:21585/vtvcab2/index.m3u8
 #EXTINF:0 tvg-id="vtvcab3_the_thao_tv_sd"group-title="VTVCab" tvg-logo="https://i.ibb.co/F4YB7wH/thethaotv-BEARTV.png" ,VTVCab3 - Thể Thao TV
 http://202.60.106.14:21585/vtvcab3/mono.m3u8
 #http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:0 tvg-id="VTVcab 4 - Văn hóa"group-title="VTVCab" tvg-logo="https://i.ibb.co/vv14vLN/VTVCAB4-BEARTV.png" ,VTVCab4
 http://quocthai.duckdns.org:18886/rtp/232.84.2.190:10924
 #EXTINF:0 tvg-id="vtvcab5_e_channel"group-title="VTVCab" tvg-logo="https://i.ibb.co/5FPVFRh/VTVCAB5-BEARTV.png",VTVCab5 - E Channel
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist_w811695802_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist_w811695802_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+http://s3.nihontv.net:21585/vtvcab5/index.m3u8
 #EXTINF:0 tvg-id="vtvcab6_haytv"group-title="VTVCab" tvg-logo="https://i.ibb.co/ZBZTBmk/VTVCAB6-BEARTV.png",VTVCab6 - HayTV
-http://quocthai.duckdns.org:18886/rtp/232.84.1.220:9294
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.220:9294
+http://s3.nihontv.net:21585/vtvcab6/index.m3u8
 #EXTINF:0 tvg-id="vtvcab10"group-title="VTVCab" tvg-logo="https://i.ibb.co/mTMBp7M/VTVCAB7-BEARTV.png",VTVCab7
-http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
+http://s3.nihontv.net:21585/vtvcab7/index.m3u8
 #EXTINF:0 tvg-id="vtvcab8_bibi"group-title="VTVCab" tvg-logo="https://i.ibb.co/qDfmNHG/VTVCAB8-BEARTV.png",VTVCab 8 - BIBI
-http://quocthai.duckdns.org:18886/rtp/232.84.1.206:9210
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.206:9210
+http://s3.nihontv.net:21585/vtvcab8/index.m3u8
 #EXTINF:0 tvg-id="vtvcab9_infotv"group-title="VTVCab" tvg-logo="https://i.ibb.co/m008TNS/VTVCAB9-BEARTV.png",VTVCab9 - Info TV
-http://quocthai.duckdns.org:18886/rtp/232.84.2.191:10930
+#http://quocthai.duckdns.org:18886/rtp/232.84.2.191:10930
+http://s3.nihontv.net:21585/vtvcab9/index.m3u8
 #EXTINF:0 tvg-id="vtvcab7_vie_dramas"group-title="VTVCab" tvg-logo="https://i.ibb.co/T84Wq4j/VTVCAB10-BEARTV.png",VTVCab10 - Vie Dramas 
-http://quocthai.duckdns.org:18886/rtp/232.84.1.205:9204
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.205:9204
+http://113.180.80.177:8080/vieonhthanh.php?id=f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a
 #EXTINF:0 tvg-id="vtvcab12_style_tv"group-title="VTVCab" tvg-logo="https://i.ibb.co/JHSSN5c/VTVCAB12-BEARTV.png",VTVCab12 - StyleTV
 http://quocthai.duckdns.org:18886/rtp/232.84.1.244:9438
 #EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://i.ibb.co/LnN87hc/VTVCAB15-BEARTV.png",VTVCab15
@@ -420,11 +436,14 @@ http://61.238.6.49:8000/bysid/99
 
 
 #EXTINF:-1 tvg-ID="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/pbDYxcr/bearlivesport1-BEARTV.png", BEAR Live 1
-https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8 
+https://media.publit.io/file/EPLBearTV.mp4
+#https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbDYxcr/bearlivesport1-BEARTV.png" group-title="KÊNH THỂ THAO", BEAR Live 2
-https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8 
+https://media.publit.io/file/SerieABearTV.mp4
+#https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbDYxcr/bearlivesport1-BEARTV.png" group-title="KÊNH THỂ THAO", BEAR Live 3
-http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+https://media.publit.io/file/SerieABearTV.mp4
+#http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
 
 #EXTINF: 0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/fv8NFBq/Diema-Sport-HD-BEARTV.png",DIEMA SPORT HD
 http://136.243.177.164/DIEMASPORT/playlist.m3u8
@@ -515,7 +534,7 @@ http://bazarhd.online:80/307210113151/307210113151/79036
 
 
 #EXTINF:-1 tvg-id=""group-title="KÊNH THỂ THAO"tvg-logo="https://i.ibb.co/4N8zRC1/SKYSERIEA-BEARTV.png",Sky Sports Serie A
-http://92.246.85.109:8000/play/a004
+http://185.236.230.201:8000/play/a014
 
 
 
