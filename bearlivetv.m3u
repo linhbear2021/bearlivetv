@@ -47,7 +47,8 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 #EXTINF:-1 tvg-id="ttxvn" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/sCyb2j3/BEARTVQR.jpg" ,Bear TV quét mã QR Zalo
-https://media.publit.io/file/bearlivetv.mp4
+#https://media.publit.io/file/bearlivetv.mp4
+https://th.data.garena.tv/hls/62136/518887_mid.m3u8
 #EXTINF:-1 tvg-id="kpluspmhd" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/q02m7Xv/K-PM-HD-BEARTV.png" ,K+PM HD
 https://live.quangkv.com/vieon/kns.m3u8
 
