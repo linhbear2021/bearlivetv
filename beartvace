@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="4K SPORTS",NowSports HK 50FPS
 http://127.0.0.1:6878/ace/getstream?id=9a29c2ce9b912c25ad768a2369564756e26f68d2
-#EXTINF:-1  tvg-id="4K SPORTS" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/Sky-Q-Silver-Sky-in-Ultra-HD-Watch-4K-on-Sky-Watch-Ultra-HD-How-To-Enable-4K-Content-on-Sky-Watch-Sky-UHD-Content-How-to-Watch-S-622462.jpg",Sky Sport 1 4K
+#EXTINF:-1  tvg-id="4K SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_UHD_logo.svg/1280px-Sky_Sport_UHD_logo.svg.png",Sky Sport 1 4K
 http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
 
 #EXTINF:-1 group-title="4K SPORTS"  ,Kênh 4K 1 (có audio gốc)
