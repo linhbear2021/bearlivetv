@@ -183,6 +183,9 @@ https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="babytvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/McZF8q4/Baby-TV-BEARTV.png",Baby TV
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="happykids"  group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
+#EXTVLCOPT:http-user-agent="BearTV"
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="Baby TV HD-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png" , Cbeebies
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
@@ -204,14 +207,14 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png", TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="paramouthd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/HqWgLk0/Paramount-xanh-BEARTV.png" , Paramount Channel
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/Y8pQz8Q/Blue-ant-entertainment-BEARTV.png" , Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantext" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/c6MN6Cc/Blue-ant-extreme-BEARTV.png" , Blue Ant Extreme
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png", National Geographic HD
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/fxH50gT/Nat-Geo-Wild-HD-BEARTV.png", Nat Geo Wild HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" , Discovery Channel
@@ -239,6 +242,7 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/t2MkYyX/CNA-BEARTV.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
 
 
@@ -329,7 +333,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="youtv" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8",Vĩnh Long 1 HD
@@ -540,31 +543,32 @@ http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 1
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/taihd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live  2
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/taihd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 3
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m102nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/taihd3/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 4
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m504nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/m504nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 5
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 6
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m404nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/m404nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 7
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/m501nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 8
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m101nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/m101nd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 9
 #EXTVLCOPT:http-user-agent="BearTV"
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+#https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
+https://1630578830.vnns.net/luhd3/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 10 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://1630578830.vnns.net/cakhiahd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
@@ -608,9 +612,7 @@ http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/20r7tJ7/True-Sport-HD-2-BEARTV.png",,True Sports HD 2
 #EXTVLCOPT:http-user-agent="BearTV"
 http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/RQMGR7D/True-Sport-HD-3-BEARTV.png",True Sports HD 3
-#EXTVLCOPT:http-user-agent="BearTV"
-http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="KÊNH THỂ THAO",BT SPORT 1
 #EXTVLCOPT:http-user-agent="BearTV"
