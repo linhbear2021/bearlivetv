@@ -13,3 +13,7 @@ http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
 #EXTINF:-1 group-title="4K SPORTS"  ,Kênh 4K (tiếng Trung Quốc)
 http://127.0.0.1:6878/ace/getstream?id=f6ae5119f9281cdc920d49248f46fc5431f70673
+
+
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="VIP TV",Playboy TV
+http://127.0.0.1:6878/ace/getstream?id=f691a59e53697fccd6349370bfe8354d40559518
