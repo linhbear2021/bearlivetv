@@ -1,0 +1,18 @@
+#EXTM3U url-tvg="http://bit.ly/guidevn"
+
+
+
+
+#EXTINF:-1 group-title="4K",NowSports HK 50FPS
+http://127.0.0.1:6878/ace/getstream?id=9a29c2ce9b912c25ad768a2369564756e26f68d2
+#EXTINF:-1  tvg-id="SkySportBundesliga" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/Sky-Q-Silver-Sky-in-Ultra-HD-Watch-4K-on-Sky-Watch-Ultra-HD-How-To-Enable-4K-Content-on-Sky-Watch-Sky-UHD-Content-How-to-Watch-S-622462.jpg",Sky Sport Bundesliga 4K
+http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
+
+#EXTINF:-1 group-title="4K"  ,Kênh 4K 1 (có audio gốc)
+http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1 group-title="4K"  ,Kênh 4K 2
+http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
+#EXTINF:-1 group-title="4K"  ,Kênh 4K (tiếng Trung Quốc)
+http://127.0.0.1:6878/ace/getstream?id=f6ae5119f9281cdc920d49248f46fc5431f70673
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="love-nature-4k",Eurosport 4K 
+http://127.0.0.1:6878/ace/getstream?id=2b144c8092d6be0ac1f68d2660ef5e0aaaba0306
