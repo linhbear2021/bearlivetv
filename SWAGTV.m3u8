@@ -21,8 +21,7 @@ https://edge-hls.doppiocdn.live/hls/65692631/master/65692631.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",松視1臺
-#EXTVLCOPT:http-referer=https://www.svistudio.com/  
-http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8|Referer=https://www.svistudio.com/ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0FXJxR/sonsee2-BEARTV.png" group-title="XTV",松視2臺
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="XTV",松視3臺
