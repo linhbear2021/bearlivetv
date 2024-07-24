@@ -41,8 +41,8 @@ http://125.227.210.55:8917/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",dobanmedia
 https://watch.swag.live/65c1f6d04c658affe31c6017/public.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",dobanmedia 2
-https://watch.swag.live/65c1f6d04c658affe31c6017/public/video-ld-00000.clear.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",ed_mosaic
+https://watch.swag.live/65aa1ed7c60af8a82eeaf859/public.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",dobanmedia 3
 https://watch.swag.live/65c1f6d04c658affe31c6017/private.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",mythaosexy
