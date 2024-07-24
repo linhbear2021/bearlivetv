@@ -18,18 +18,20 @@ https://edge-hls.doppiocdn.live/hls/151784801/master/151784801.m3u8
 https://edge-hls.doppiocdn.live/hls/145575395/master/145575395.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="HOT ASIAN LIVE",makoto_mai
 https://edge-hls.doppiocdn.live/hls/65692631/master/65692631.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",mei_lee
-https://b-hls-20.doppiocdn.org/hls/61530532/61530532.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",RollingGirls
-https://edge-hls.doppiocdn.live/hls/126114747/master/126114747.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",cho_son
-https://b-hls-02.doppiocdn.com/hls/62576695/62576695.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",HornyShy
-https://b-hls-07.doppiocdn.com/hls/64763426/64763426_720p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",Lee_yoo
-https://b-hls-19.doppiocdn.org/hls/108959025/108959025.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",angel_luisa
-https://edge-hls.doppiocdn.live/hls/82949923/master/82949923.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",松視1臺
+http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FXJxR/sonsee2-BEARTV.png" group-title="XTV",松視2臺
+http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="XTV",松視3臺
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="XTV",Banana
+http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnZ95LJ/Amazing-BEARTV.png" group-title="XTV",Amazing TV
+http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsYz81B/padoraperfect-BEARTV.png" group-title="XTV",Padora Perfect
+http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 
 
 
