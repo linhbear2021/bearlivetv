@@ -18,18 +18,18 @@ https://edge-hls.doppiocdn.live/hls/129981264/master/129981264.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",松視1臺
-http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+https://18.svi-studio.com/live/584830114073/800309151021/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0FXJxR/sonsee2-BEARTV.png" group-title="XTV",松視2臺
-http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+https://18.svi-studio.com/live/917952932058/953281067271/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="XTV",松視3臺
-http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="XTV",Banana
-#http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+#https://18.svi-studio.com/live/624372101145/418430465490/4.m3u8
 http://125.227.210.55:8159/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnZ95LJ/Amazing-BEARTV.png" group-title="XTV",Amazing TV
-http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+https://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsYz81B/padoraperfect-BEARTV.png" group-title="XTV",Padora Perfect
-http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+https://18.svi-studio.com/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",Miaun
 http://125.227.210.55:51359/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",Ours
