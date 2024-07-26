@@ -8,8 +8,7 @@ https://edge-hls.doppiocdn.live/hls/86249010/master/86249010.m3u8
 https://edge-hls.doppiocdn.live/hls/112637067/master/112637067.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",jane_sui
 https://edge-hls.doppiocdn.live/hls/119832661/master/119832661.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",akari_hosi
-https://edge-hls.doppiocdn.live/hls/139462149/master/139462149.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",tingting66
 https://edge-hls.doppiocdn.live/hls/129981264/master/129981264.m3u8
 
@@ -57,6 +56,10 @@ https://watch.swag.live/6663b7b082e8081e85796e76/private-cenc/video-sd-00000.cen
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://api.swag.live/pusher/batch-authenticate?app_id=550591&socket_id=31780.26270536&channels=presence-enc-stream-viewer%406663b7b082e8081e85796e76.sd.669e02eaff20876d837255b4
 https://watch.swag.live/6663b7b082e8081e85796e76/private.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",test 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.swag.live/pusher/batch-authenticate?app_id=550591&socket_id=31780.26270536&channels=presence-enc-stream-viewer%4065f7b3fe19f2fc88aca960f9.sd.669e02eaff20876d837255b4
+https://watch.swag.live/65f7b3fe19f2fc88aca960f9/private.mpd
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="HOT LIVE",Anna__Gau33 (_miso_ni)
