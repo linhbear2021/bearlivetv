@@ -54,7 +54,7 @@ https://watch.swag.live/65f7b3fe19f2fc88aca960f9/public.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",test 2
 https://watch.swag.live/6663b7b082e8081e85796e76/private-cenc/video-sd-00000.cenc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://api.swag.live/sessions/6663b7b082e8081e85796e76/leaderboard?limit=15&page=1&_=1721698489
 https://watch.swag.live/6663b7b082e8081e85796e76/private.mpd
 
