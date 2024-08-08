@@ -1,42 +1,26 @@
 #EXTM3U 18av.mm-cg.com
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="HOT ASIAN LIVE",choi_ara
-https://edge-hls.doppiocdn.live/hls/80420327/master/80420327.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",asuna_love
-https://edge-hls.doppiocdn.live/hls/86249010/master/86249010.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="HOT ASIAN LIVE",tiya_tin
-https://edge-hls.doppiocdn.live/hls/112637067/master/112637067.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",jane_sui
-https://edge-hls.doppiocdn.live/hls/119832661/master/119832661.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",tingting66
-https://edge-hls.doppiocdn.live/hls/129981264/master/129981264.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",松視1臺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="SWAGTV",松視1臺
 https://18.svi-studio.com/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FXJxR/sonsee2-BEARTV.png" group-title="XTV",松視2臺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FXJxR/sonsee2-BEARTV.png" group-title="SWAGTV",松視2臺
 https://18.svi-studio.com/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="XTV",松視3臺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="SWAGTV",松視3臺
 https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="XTV",Banana
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="SWAGTV",Banana
 #https://18.svi-studio.com/live/624372101145/418430465490/4.m3u8
 http://125.227.210.55:8159/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnZ95LJ/Amazing-BEARTV.png" group-title="XTV",Amazing TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnZ95LJ/Amazing-BEARTV.png" group-title="SWAGTV",Amazing TV
 https://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsYz81B/padoraperfect-BEARTV.png" group-title="XTV",Padora Perfect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsYz81B/padoraperfect-BEARTV.png" group-title="SWAGTV",Padora Perfect
 https://18.svi-studio.com/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",Miaun
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="SWAGTV",Miaun
 http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="XTV",Ours
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="SWAGTV",Ours
 http://125.227.210.55:55643/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://twtmsearch.tipo.gov.tw/pic/20170811/105/030/524/pic_105030524_20160601_1.jpg" group-title="XTV",Ours HD
+#EXTINF:-1 tvg-logo="https://twtmsearch.tipo.gov.tw/pic/20170811/105/030/524/pic_105030524_20160601_1.jpg" group-title="SWAGTV",Ours HD
 http://125.227.210.55:8917/VideoInput/play.ts
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",dobanmedia
 https://watch.swag.live/65c1f6d04c658affe31c6017/public.m3u8
@@ -58,6 +42,18 @@ https://watch.swag.live/635688324a11ceb2c9fc3fa7/public.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://api.swag.live/configurations/analytics.json
 https://watch.swag.live/65f7b3fe19f2fc88aca960f9/private.mpd
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="HOT ASIAN LIVE",choi_ara
+https://edge-hls.doppiocdn.live/hls/80420327/master/80420327.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",asuna_love
+https://edge-hls.doppiocdn.live/hls/86249010/master/86249010.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="HOT ASIAN LIVE",tiya_tin
+https://edge-hls.doppiocdn.live/hls/112637067/master/112637067.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",jane_sui
+https://edge-hls.doppiocdn.live/hls/119832661/master/119832661.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",tingting66
+https://edge-hls.doppiocdn.live/hls/129981264/master/129981264.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="HOT LIVE",Anna__Gau33 (_Gau-Miu_)
 https://edge-hls.doppiocdn.live/hls/146534015/master/146534015.m3u8
