@@ -38,10 +38,8 @@ https://watch.swag.live/65f7b3fe19f2fc88aca960f9/public.m3u8
 https://watch.swag.live/65c1e2a97704a81b2ed9ad90/public.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",daxiangtw
 https://watch.swag.live/635688324a11ceb2c9fc3fa7/public.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",test 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.swag.live/configurations/analytics.json
-https://watch.swag.live/65f7b3fe19f2fc88aca960f9/private.mpd
+#EXTINF:-1 tvg-logo="https://img.cydianzi.com/2021/0825/20210825011428449.png?imageView2/1/w/96/h/96/interlace/1" group-title="JZ.TV LIVE",16876281
+https://o2x2b4lnwj94ewml.0csp7bqtxeaj.sourcelandchina.com/live/16876281?token=d10c262cd56cc7668741866ba7400b3c&t=1725764820
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",choi_ara
 https://edge-hls.doppiocdn.live/hls/80420327/master/80420327.m3u8
