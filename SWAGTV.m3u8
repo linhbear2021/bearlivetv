@@ -20,7 +20,7 @@ http://125.227.210.55:51359/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="SWAGTV",Ours
 http://125.227.210.55:55643/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://twtmsearch.tipo.gov.tw/pic/20170811/105/030/524/pic_105030524_20160601_1.jpg" group-title="SWAGTV",Ours HD
-http://125.227.210.55:8917/VideoInput/play.ts
+https://18.svi-studio.com/live/624372101145/418430465490/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",dobanmedia
 https://watch-bp.swag.live/default/65c1f6d04c658affe31c6017.flv
