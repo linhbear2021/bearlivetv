@@ -23,15 +23,15 @@ http://125.227.210.55:55643/VideoInput/play.ts
 http://125.227.210.55:8917/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",dobanmedia
-https://watch.swag.live/65c1f6d04c658affe31c6017/public.m3u8
+https://watch-bp.swag.live/default/65c1f6d04c658affe31c6017.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",ed_mosaic
-https://public.swag.live/messages/6450d5168a4c77cf2300e679/6450d345ccfe0de0e76172c2/video-sd-h264-watermarked/00000.cenc.mp4
+https://watch-bp.swag.live/default/65aa1ed7c60af8a82eeaf859.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",rosababyvip
-https://watch.swag.live/6663b7b082e8081e85796e76/public.m3u8
+https://watch-bp.swag.live/default/6663b7b082e8081e85796e76.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",mythaosexy
 https://watch-bp.swag.live/default/669dbfb8946d72c01cd0c828.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",love0970074427
-https://watch.swag.live/66627f6b781b2788f5bb6b5d/public.m3u8
+https://watch-bp.swag.live/default/66627f6b781b2788f5bb6b5d.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",annabellaa
 https://watch-bp.swag.live/default/65f7b3fe19f2fc88aca960f9.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",腿精👠依依SUB
