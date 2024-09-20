@@ -44,6 +44,8 @@ https://watch-bp.swag.live/default/6684dd07c0016e6ce6a7595c.flv
 https://watch-bp.swag.live/default/626cd78cf6a796d4b2b52ec4.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",susi_love
 https://watch-bp.swag.live/default/64fff8395157c5ff1e138a05.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",Ring_Luna
+https://watch-bp.swag.live/default/65f1ab445656c74f42329fe7.flv
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="ASIAN LIVE",choi_ara
 https://edge-hls.doppiocdn.live/hls/80420327/master/80420327.m3u8
@@ -341,8 +343,7 @@ https://edge-hls.doppiocdn.live/hls/150085342/master/150085342.m3u8
 https://edge-hls.doppiocdn.live/hls/153313141/master/153313141.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="SPA/Nail LIVE",Sweet_titi
 https://edge-hls.doppiocdn.live/hls/135126716/master/135126716.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="SPA/Nail LIVE",Ring_Luna
-https://watch-bp.swag.live/default/65f1ab445656c74f42329fe7.flv
+
 
 
 
