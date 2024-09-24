@@ -18,7 +18,7 @@ https://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
 https://18.svi-studio.com/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/ares-profile-pictures/hd/modelmedia.officialsite-50eff803c5c41eafeb8ffa1e6b07ddb0_hd.jpg" group-title="SWAGTV",Model Media
 http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="SWAGTV",Ours
+#EXTINF:-1 tvg-logo="https://www.javshy.one/images/channel/ours-hd-tv.webp" group-title="SWAGTV",Ours
 http://125.227.210.55:55643/VideoInput/play.ts
 
 
