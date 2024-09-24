@@ -24,7 +24,7 @@ http://125.227.210.55:55643/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",dobanmedia
 https://watch-bp.swag.live/default/65c1f6d04c658affe31c6017.flv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",ed_mosaic
+#EXTINF:-1 tvg-logo="https://public.swag.live/users/65aa1ed7c60af8a82eeaf859/picture.jpg?size=2048x2048&format=jpg" group-title="SWAG LIVE",ED MOSAIC - ed_mosaic
 https://watch-bp.swag.live/default/65aa1ed7c60af8a82eeaf859.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/10/SWAG_logo.svg/1200px-SWAG_logo.svg.png" group-title="SWAG LIVE",rosababyvip
 https://watch-bp.swag.live/default/6663b7b082e8081e85796e76.flv
