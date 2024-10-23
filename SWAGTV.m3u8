@@ -62,7 +62,8 @@ https://watch-bp.swag.live/default/6626596e72cd26e765a42cbb.flv
 https://watch-bp.swag.live/default/66cc4aa1d7aaae73c57d533a.flv
 #EXTINF:-1 tvg-logo="https://public.swag.live/users/66f51dae7356cec3a2cf443c/picture.jpg?size=2048x2048&format=jpg" group-title="SWAG LIVE",十七 - boomboom.
 https://watch-bp.swag.live/default/66f51dae7356cec3a2cf443c.flv
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="SWAG LIVE",Vân Anh
+https://watch-bp.swag.live/default/656b462fcd2622412dc3830d.flv
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - ASIAN",choi_ara
 https://edge-hls.doppiocdn.live/hls/80420327/master/80420327.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - ASIAN",asuna_love
@@ -212,8 +213,7 @@ https://edge-hls.doppiocdn.live/hls/141682890/master/141682890.m3u8
 https://edge-hls.doppiocdn.live/hls/84002032/master/84002032.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Trang_Linh
 https://edge-hls.doppiocdn.live/hls/98948515/master/98948515.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Malina_12
-https://edge-hls.doppiocdn.live/hls/141162106/master/141162106.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Kya_Choco7
 https://edge-hls.doppiocdn.live/hls/65084120/master/65084120.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",_Yorii_
