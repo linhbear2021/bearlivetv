@@ -2,24 +2,29 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="SWAGTV",松視1臺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt43zV0/sonsee1-BEARTV.png" group-title="LiveTV",松視1臺
 https://18.svi-studio.com/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FXJxR/sonsee2-BEARTV.png" group-title="SWAGTV",松視2臺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FXJxR/sonsee2-BEARTV.png" group-title="LiveTV",松視2臺
 https://18.svi-studio.com/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="SWAGTV",松視3臺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="LiveTV",松視3臺
 https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="SWAGTV",Banana 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="LiveTV",Banana (SV1)
 http://125.227.210.55:8159/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="SWAGTV",Banana 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="LiveTV",Banana (SV2)
 https://18.svi-studio.com/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnZ95LJ/Amazing-BEARTV.png" group-title="SWAGTV",Amazing TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnZ95LJ/Amazing-BEARTV.png" group-title="LiveTV",Amazing TV
 https://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsYz81B/padoraperfect-BEARTV.png" group-title="SWAGTV",Padora Perfect
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsYz81B/padoraperfect-BEARTV.png" group-title="LiveTV",Padora Perfect
 https://18.svi-studio.com/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/ares-profile-pictures/hd/modelmedia.officialsite-50eff803c5c41eafeb8ffa1e6b07ddb0_hd.jpg" group-title="SWAGTV",Model Media
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/ares-profile-pictures/hd/modelmedia.officialsite-50eff803c5c41eafeb8ffa1e6b07ddb0_hd.jpg" group-title="LiveTV",Model Media
 http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://www.javshy.one/images/channel/ours-hd-tv.webp" group-title="SWAGTV",Ours
+#EXTINF:-1 tvg-logo="https://www.javshy.one/images/channel/ours-hd-tv.webp" group-title="LiveTV",Ours TV
 http://125.227.210.55:55643/VideoInput/play.ts
+
+
+
+
+#EXTINF:-1 Mục Live Web
 
 
 #EXTINF:-1 tvg-logo="https://public.swag.live/users/65c1f6d04c658affe31c6017/picture.jpg?size=2048x2048&format=jpg" group-title="SWAG LIVE",渡邊傳媒 - dobanmedia
@@ -184,164 +189,12 @@ https://edge-hls.doppiocdn.live/hls/78140364/master/78140364.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",IsMiMi
 https://edge-hls.doppiocdn.live/hls/52028289/master/52028289.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",2HotAsain4u
-https://edge-hls.doppiocdn.live/hls/135735332/master/135735332.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Arica_Sexy
-https://edge-hls.doppiocdn.live/hls/118836103/master/118836103.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",sweetstrawberry77700
-https://edge-hls.doppiocdn.live/hls/92941513/master/92941513.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Ninasex202
-https://edge-hls.doppiocdn.live/hls/148344565/master/148344565.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Babytran
-https://edge-hls.doppiocdn.live/hls/146652986/master/146652986.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Diu_anh
-https://edge-hls.doppiocdn.live/hls/109041088/master/109041088.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",squirtsuka
-https://edge-hls.doppiocdn.live/hls/131687591/master/131687591.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",sahara1992
-https://edge-hls.doppiocdn.live/hls/88609534/master/88609534.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Mira_66
-https://edge-hls.doppiocdn.live/hls/149227078/master/149227078.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Lisa_9x
-https://edge-hls.doppiocdn.live/hls/153445143/master/153445143.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Luly_yin610
-https://edge-hls.doppiocdn.live/hls/141957472/master/141957472.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",linda_squirt1
-https://edge-hls.doppiocdn.live/hls/155060064/master/155060064.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="MB LIVE",Ellie-Min
-https://edge-hls.doppiocdn.live/hls/140211978/master/140211978.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Anie68
-https://edge-hls.doppiocdn.live/hls/143653634/master/143653634.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Vy_cherry
-https://edge-hls.doppiocdn.live/hls/134314849/master/134314849.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Kiki-kute22
-https://edge-hls.doppiocdn.live/hls/139047265/master/139047265.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Cherry_sexy12
-https://edge-hls.doppiocdn.live/hls/140100876/master/140100876.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Nana-Cute
-https://edge-hls.doppiocdn.live/hls/119897500/master/119897500.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Bella_babei
-https://edge-hls.doppiocdn.live/hls/140175843/master/140175843.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",--Jenny-88
-https://edge-hls.doppiocdn.live/hls/137440075/master/137440075.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",BioClup8989
-https://edge-hls.doppiocdn.live/hls/139085546/master/139085546.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Wet-wet19
-https://edge-hls.doppiocdn.live/hls/141682890/master/141682890.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Angela_my
-https://edge-hls.doppiocdn.live/hls/84002032/master/84002032.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Trang_Linh
-https://edge-hls.doppiocdn.live/hls/98948515/master/98948515.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Kya_Choco7
-https://edge-hls.doppiocdn.live/hls/65084120/master/65084120.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",_Yorii_
-https://edge-hls.doppiocdn.live/hls/134841633/master/134841633.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Aqi98
-https://edge-hls.doppiocdn.live/hls/139819263/master/139819263.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Funny_girl96
-https://edge-hls.doppiocdn.live/hls/90067114/master/90067114.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Onee-Chew
-https://edge-hls.doppiocdn.live/hls/78467766/master/78467766.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Luxy22_5
-https://edge-hls.doppiocdn.live/hls/138529160/master/138529160.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Candy_Lyn
-https://edge-hls.doppiocdn.live/hls/134089835/master/134089835.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",MIemMIem
-https://edge-hls.doppiocdn.live/hls/143680587/master/143680587.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Juny-Lany
-https://edge-hls.doppiocdn.live/hls/131025976/master/131025976.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Vy__Vy
-https://edge-hls.doppiocdn.live/hls/140047065/master/140047065.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Kemmy_babe20
-https://edge-hls.doppiocdn.live/hls/128184440/master/128184440.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Lisa_Andrea
-https://edge-hls.doppiocdn.live/hls/139052436/master/139052436.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",JessiT204
-https://edge-hls.doppiocdn.live/hls/136776126/master/136776126.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Mila-white
-https://edge-hls.doppiocdn.live/hls/133805552/master/133805552.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",LoveYouAndLoveMe
-https://edge-hls.doppiocdn.live/hls/140079258/master/140079258.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",lusyGirl_96
-https://edge-hls.doppiocdn.live/hls/51291787/master/51291787.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Soya-Yumi
-https://edge-hls.doppiocdn.live/hls/149974414/master/149974414.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Million_dollar_pussy
-https://edge-hls.doppiocdn.live/hls/123168148/master/123168148.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",zizi_public
-https://edge-hls.doppiocdn.live/hls/134693626/master/134693626.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Show_691
-https://edge-hls.doppiocdn.live/hls/54851809/master/54851809.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",MiKunnn
-https://edge-hls.doppiocdn.live/hls/136572106/master/136572106.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",SungkyunKwan
-https://edge-hls.doppiocdn.live/hls/26932085/master/26932085.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Kimochi12_jp
-https://edge-hls.doppiocdn.live/hls/155067900/master/155067900.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Venus_MeoMeo
-https://edge-hls.doppiocdn.live/hls/151778598/master/151778598.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Cute_MILF
-https://edge-hls.doppiocdn.live/hls/141410565/master/141410565.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",_Candy-Couple_
-https://b-hls-01.doppiocdn.org/hls/108998908/108998908.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Fresh_Fruit
-https://b-hls-05.doppiocdn.org/hls/52028289/52028289.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",__Posy__
-https://edge-hls.doppiocdn.live/hls/140102597/master/140102597.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",ABC18teen
-https://b-hls-09.doppiocdn.com/hls/120247674/120247674.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Juicy55_wet
-https://edge-hls.doppiocdn.live/hls/109925757/master/109925757.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",princess_wet
-https://edge-hls.doppiocdn.live/hls/108114199/master/108114199.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Jimin_hotsex
-https://edge-hls.doppiocdn.live/hls/140699059/master/140699059.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",---Babier---
-https://edge-hls.doppiocdn.live/hls/129957727/master/129957727.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",shygirl_ABI
-https://b-hls-16.doppiocdn.com/hls/110248481/110248481.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Helen_sexy6868
-https://b-hls-23.doppiocdn.org/hls/103331941/103331941.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Lyuri_
-https://b-hls-18.doppiocdn.org/hls/118816199/118816199.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",_Lona_y
-https://edge-hls.doppiocdn.live/hls/111264815/master/111264815.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Dian_sweety
-https://b-hls-03.doppiocdn.com/hls/96797277/96797277.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Funny_2k2
-https://edge-hls.doppiocdn.live/hls/154747685/master/154747685.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Alina_hana
-https://edge-hls.doppiocdn.live/hls/155251079/master/155251079.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",bellai-xxx
-https://b-hls-06.doppiocdn.com/hls/96836667/96836667.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Milla_18xxx
-https://edge-hls.doppiocdn.live/hls/118229814/master/118229814.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Massage_TiTi
-https://edge-hls.doppiocdn.live/hls/122652748/master/122652748.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Lucy-naa
-https://b-hls-20.doppiocdn.live/hls/155066154/155066154.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Hana_Swinger23
-https://edge-hls.doppiocdn.live/hls/138802223/master/138802223.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Winniee18
-https://edge-hls.doppiocdn.live/hls/141065944/master/141065944.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",__nuna_2002
-https://edge-hls.doppiocdn.live/hls/134981592/master/134981592.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",misuchan
-https://edge-hls.doppiocdn.live/hls/103436459/master/103436459.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Mailia98
-https://edge-hls.doppiocdn.live/hls/142521564/master/142521564.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Alula_BeMup
-https://edge-hls.doppiocdn.live/hls/142234876/master/142234876.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",--Jenny-88
-https://edge-hls.doppiocdn.live/hls/137440075/master/137440075.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="VIETNAM LIVE",Emily_9xx
-https://edge-hls.doppiocdn.live/hls/139937824/master/139937824.m3u8
 
 
 
+
+
+#EXTINF:-1 Mục phim VOD
 
 #EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36185.jpg" group-title="1pondo",113017_612
 https://fc.maa1801.com/f/pzohakwafr/pzohakwafr.m3u8
