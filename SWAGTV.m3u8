@@ -142,6 +142,8 @@ https://edge-hls.doppiocdn.live/hls/173067441/master/173067441.m3u8
 https://edge-hls.doppiocdn.live/hls/171798564/master/171798564.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/a/f/7afc0727414280d696dcbee4366dd6ea" group-title="STRIPCHAT - VN",Liz_Hu
 https://edge-hls.doppiocdn.live/hls/21107671/master/21107671.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/3/2/d32650873ef42a336ae01949364184fc" group-title="STRIPCHAT - VN",Ellie-Min
+https://edge-hls.doppiocdn.live/hls/140211978/master/140211978.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",siso_siso
 https://edge-hls.doppiocdn.live/hls/118914113/master/118914113.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Venus_MeoMeo
@@ -180,8 +182,6 @@ https://edge-hls.doppiocdn.live/hls/145507169/master/145507169.m3u8
 https://edge-hls.doppiocdn.live/hls/100647314/master/100647314.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Rose_Thuy
 https://edge-hls.doppiocdn.live/hls/120720975/master/120720975.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Lyly_moon
-https://edge-hls.doppiocdn.live/hls/151579203/master/151579203.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Eira2004
 https://edge-hls.doppiocdn.live/hls/78140364/master/78140364.m3u8
 
