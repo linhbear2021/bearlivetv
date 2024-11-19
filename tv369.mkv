@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTM3U BEARTV
+#EXTM3U BEARTV - tv369
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1   
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=https://sctvonline.vn/
@@ -184,29 +184,29 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sc
 
 
 
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 01
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 01
 https://fdcdn.livestreameuro.live/live/thuHD.flv
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 02
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 02
 https://fdcdn.livestreameuro.live/live/Z1HD.flv
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 03
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 03
 https://fdcdn.livestreameuro.live/live/voiHD.flv
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 04
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 04
 https://fdcdn.livestreameuro.live/live/coHD.flv
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 05
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 05
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 06
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 06
 https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 07
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 07
 https://obevcimanyd179249207.thapcam.link/live/xienFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 08
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 08
 https://obevcimanyd179249207.thapcam.link/live/Z1FHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 09
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 09
 https://obevcimanyd179249207.thapcam.link/live/momFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 10
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 10
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 11
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 11
 https://obevcimanyd179249207.thapcam.link/live/daoFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 365 SPORT 12
+#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 12
 https://obevcimanyd179249207.thapcam.link/live/caFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
 
 
