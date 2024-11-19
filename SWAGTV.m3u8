@@ -166,8 +166,6 @@ https://edge-hls.doppiocdn.live/hls/100001907/master/100001907.m3u8
 https://edge-hls.doppiocdn.live/hls/76020849/master/76020849.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Sovarwet
 https://edge-hls.doppiocdn.live/hls/164200958//master/164200958.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Minzy_Bunni
-https://edge-hls.doppiocdn.live/hls/147452074/master/147452074.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Funry_girl
 https://edge-hls.doppiocdn.live/hls/149259341/master/149259341.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/1/8/3/183a2faead6869076dc9568b2da9de47" group-title="STRIPCHAT - VN",Baby_Claraa
@@ -184,7 +182,8 @@ https://edge-hls.doppiocdn.live/hls/120720975/master/120720975.m3u8
 https://edge-hls.doppiocdn.live/hls/78140364/master/78140364.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.lemoncams.com/assets/images_hector/flags/svg/vn.svg" group-title="STREAMATE LIVE",MarthaShow
+https://ew3-15.nginxborder-server.naiadsystems.com/p/8313/hls/live/ab9d993a-24a3-46ef-a8e7-f4c8be8bfb01_700_768x432_128/index.m3u8
 
 
 
