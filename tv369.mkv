@@ -185,13 +185,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sc
 
 
 #EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 01
-https://fdcdn.livestreameuro.live/live/thuHD.flv
+https://fdcdn.livestreameuro.live/live/thuHD.flv|Referer=https://xem2.cakeo.mom/
 #EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 02
-https://fdcdn.livestreameuro.live/live/Z1HD.flv
+https://fdcdn.livestreameuro.live/live/Z1HD.flv|Referer=https://xem2.cakeo.mom/
 #EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 03
-https://fdcdn.livestreameuro.live/live/voiHD.flv
+https://fdcdn.livestreameuro.live/live/voiHD.flv|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 04
-https://fdcdn.livestreameuro.live/live/coHD.flv
+https://fdcdn.livestreameuro.live/live/coHD.flv|Referer=https://xem2.cakeo.mom/
 #EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 05
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 06
