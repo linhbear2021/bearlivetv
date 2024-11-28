@@ -18,8 +18,6 @@ https://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
 https://18.svi-studio.com/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/ares-profile-pictures/hd/modelmedia.officialsite-50eff803c5c41eafeb8ffa1e6b07ddb0_hd.jpg" group-title="LiveTV",Model Media
 http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://www.javshy.one/images/channel/ours-hd-tv.webp" group-title="LiveTV",Ours TV
-https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/0ccc0471dfe519180b46fe78962c67db/manifest/video.m3u8
 
 
 
@@ -79,7 +77,8 @@ https://watch-bp.swag.live/default/65f80064bc6c9996f8c5a7d9/.flv
 #EXTINF:-1 tvg-logo="https://public.swag.live/users/63da6dccbd5a070c394cc529/picture.jpg?size=2048x2048&format=jpg" group-title="SWAG LIVE",Moochi🤍 - honeybo
 https://watch-bp.swag.live/default/63da6dccbd5a070c394cc529.flv
 
-
+#EXTINF:-1 tvg-logo="https://live18k-image.s3.ap-southeast-1.amazonaws.com/user_8056/1732783558255_photo_2024-11-28_15-25-48.jpg" group-title="Live18k",BÉ SỮA
+https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/0ccc0471dfe519180b46fe78962c67db/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - ASIAN",choi_ara
 https://edge-hls.doppiocdn.live/hls/80420327/master/80420327.m3u8
