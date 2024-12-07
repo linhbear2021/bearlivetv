@@ -86,8 +86,7 @@ https://watch-bp.swag.live/default/63da6dccbd5a070c394cc529.flv
 https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/f8fe8af94cce4e64621c3cb856876385/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://live18k-image.s3.ap-southeast-1.amazonaws.com/user_1810/1727847441748_photo_2024-10-02_12-20-43.webp" group-title="LIVE18K",Myn Xinh
 https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/4d40abe9d545374076e9fa8ba42a9d1b/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="https://live18k-image.s3.ap-southeast-1.amazonaws.com/user_21/1730269234805_photo_2024-10-30_13-17-57.webp" group-title="LIVE18K",Thảo Xinh
-https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/586764c49edd81b245c8dfcd11ed30c6/manifest/video.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - ASIAN",choi_ara
@@ -160,6 +159,8 @@ https://edge-hls.doppiocdn.live/hls/21107671/master/21107671.m3u8
 https://edge-hls.doppiocdn.live/hls/140211978/master/140211978.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/0/1/c01ffacdccb09c4492e9c98a4717603f" group-title="STRIPCHAT - VN",siso_siso
 https://edge-hls.doppiocdn.live/hls/118914113/master/118914113.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/8/1/48106edf6ccc7ef9d54626fda285759e" group-title="STRIPCHAT - VN",-Zelda-
+https://edge-hls.doppiocdn.live/hls/161760501/master/161760501.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/0/1/c01ffacdccb09c4492e9c98a4717603f" group-title="STRIPCHAT - VN",Venus_MeoMeo
 https://edge-hls.doppiocdn.live/hls/151778598/master/151778598.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",bunny_yummy08
