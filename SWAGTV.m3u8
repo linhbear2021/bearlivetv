@@ -81,11 +81,6 @@ https://watch-bp.swag.live/default/65f80064bc6c9996f8c5a7d9/.flv
 https://watch-bp.swag.live/default/63da6dccbd5a070c394cc529.flv
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/97.png", K+SPORT1 HD MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.swag.live/drm/authorize/com.widevine.alpha?_o=https%3A%2F%2Fdevelop.app.swag.live&id=67529b8a3540c2afe3957234
-https://watch-bp.swag.live/default/64fff8395157c5ff1e138a05.mpd
 
 #EXTINF:-1 tvg-logo="https://live18k-image.s3.ap-southeast-1.amazonaws.com/user_4876/1731303167270_photo_2024-11-10_14-01-55.webp" group-title="LIVE18K",Mari
 https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/f8fe8af94cce4e64621c3cb856876385/manifest/video.m3u8
@@ -122,6 +117,8 @@ https://edge-hls.doppiocdn.live/hls/121137535/master/121137535.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stripchat-logo-A52129E594-seeklogo.com.png" group-title="STRIPCHAT - VN",Anna__Gau33 (_Gau-Miu_)
 https://edge-hls.doppiocdn.live/hls/146534015/master/146534015.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/1/2/d/12d4c6af5684e114b207ea64626b75bd" group-title="STRIPCHAT - VN",Nacy-Moonlight
+https://edge-hls.doppiocdn.live/hls/116517154/master/116517154.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/3/3/333f753bf5a081fe2931c2da4c74cfc2" group-title="STRIPCHAT - VN",MissVogue_010
 https://edge-hls.doppiocdn.live/hls/155553025/master/155553025.m3u8
 #EXTINF:-1 tvg-logo="	https://static-cdn.strpst.com/avatars/a/6/7/a67c845bc0fda13d723a1054230d5f75" group-title="STRIPCHAT - VN",jasmine-jang
