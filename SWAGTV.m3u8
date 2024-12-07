@@ -80,8 +80,14 @@ https://watch-bp.swag.live/default/65f80064bc6c9996f8c5a7d9/.flv
 #EXTINF:-1 tvg-logo="https://public.swag.live/users/63da6dccbd5a070c394cc529/picture.jpg?size=2048x2048&format=jpg" group-title="SWAG LIVE",Moochi🤍 - honeybo
 https://watch-bp.swag.live/default/63da6dccbd5a070c394cc529.flv
 
-#EXTINF:-1 tvg-logo="https://live18k-image.s3.ap-southeast-1.amazonaws.com/user_8056/1732783558255_photo_2024-11-28_15-25-48.jpg" group-title="LIVE18K",BÉ SỮA
-https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/0ccc0471dfe519180b46fe78962c67db/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/97.png", K+SPORT1 HD MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.swag.live/drm/authorize/com.widevine.alpha?_o=https%3A%2F%2Fdevelop.app.swag.live&id=67529b8a3540c2afe3957234
+https://public.swag.live/messages/67507f78f593e4d9d7a32ca3/manifest.mpd?preset=sd
+
 #EXTINF:-1 tvg-logo="https://live18k-image.s3.ap-southeast-1.amazonaws.com/user_4876/1731303167270_photo_2024-11-10_14-01-55.webp" group-title="LIVE18K",Mari
 https://customer-g0vq41wcd7ai4z7p.cloudflarestream.com/f8fe8af94cce4e64621c3cb856876385/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://live18k-image.s3.ap-southeast-1.amazonaws.com/user_1810/1727847441748_photo_2024-10-02_12-20-43.webp" group-title="LIVE18K",Myn Xinh
