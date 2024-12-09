@@ -9,8 +9,7 @@ https://18.svi-studio.com/live/917952932058/953281067271/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvPFq80/sonsee3-BEARTV.png" group-title="LiveTV",松視3臺
 https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="LiveTV",Banana (SV1)
-https://scontent.fthd2-4.fna.fbcdn.net/hvideo-ftw-ldc/_nc_cat-1/_nc_sr_t-4/v/rASf7KsvPUOtOT_ovhwnNFdP9UpMzk50HAeypFGTABRjv5Q/_nc_ohc-nY5y9Gc6vWkQ7kNvgEbkBom/live-dash/dash-abr3/122164151318054564.mpd?_nc_eui2=AeFKkbE5pFxrE6RtZRZ4mlvBEcSXH3Qv050RxJcfdC_TndWxEC0ZlcnV5rTWwfvk2zK4oqDoystj7epN7pWMbiqr&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYDkV3bDeCD_kO9aa1XgqL7WS2TIfuxtloz9DaQRtsmM3A&oe=6750DB19
-#http://125.227.210.55:8159/VideoInput/play.ts
+http://125.227.210.55:8159/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDm6QVq/banana-BEARTV.png" group-title="LiveTV",Banana (SV2)
 https://18.svi-studio.com/live/624372101145/418430465490/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnZ95LJ/Amazing-BEARTV.png" group-title="LiveTV",Amazing TV
