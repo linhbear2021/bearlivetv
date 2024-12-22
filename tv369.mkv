@@ -121,7 +121,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8|Referer=https://sctvon
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg",VTC5 HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/vtc5/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.ibb.co/L8T5MGF/VTC7-BEARTV.png",VTC7 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtc7/index.m3u8|Referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/vtc7/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/60nyjgj/VTC9-BEARTV.png",VTC9 HD
 https://oipf0znpmnliv.vcdn.cloud/hls/vtc9/index.m3u8
 
