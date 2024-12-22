@@ -185,6 +185,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sc
 https://e4.endpoint.cdn.sctvonline.vn/hls/cinemax/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="drfit" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="axn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",AXN
+https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=https://sctvonline.vn/
 
 
 
@@ -209,8 +211,7 @@ https://obevcimanyd179249207.thapcam.link/live/Z1FHD/chunklist.m3u8|Referer=http
 https://obevcimanyd179249207.thapcam.link/live/momFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 10
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="365 SPORT" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp", 369 SPORT 11
-https://obevcimanyd179249207.thapcam.link/live/daoFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz
+
 
 
 
