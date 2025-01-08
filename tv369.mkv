@@ -181,7 +181,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://s
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="musicbox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png", Box Music
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="cinemax" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Woman
+#EXTINF:-1 tvg-id="cinemax" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="drfit" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/
