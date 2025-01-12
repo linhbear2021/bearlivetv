@@ -32,6 +32,8 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https:/
 https://arpt.tvic.vn/live/nhandan720/chunklist_w1440822392.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
 https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/c8vJyv9/kkids-hd-BEARTV.png",K+ Kids
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/01.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Gtcknx3/onviegiaitri-BEARTV.png",ON Vie GIẢI TRÍ
@@ -116,8 +118,6 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg",VTC5 HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/vtc5/01.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.ibb.co/L8T5MGF/VTC7-BEARTV.png",VTC7 HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/vtc7/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/60nyjgj/VTC9-BEARTV.png",VTC9 HD
 https://oipf0znpmnliv.vcdn.cloud/hls/vtc9/index.m3u8
 
@@ -174,15 +174,15 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/thdaklak/01.m3u8|Referer=https://sctvo
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie//01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="cinemax" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax
 https://e8.endpoint.cdn.sctvonline.vn/hls/cinemax/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="happykids"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="musicbox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png", Box Music
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="cinemax" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="drfit" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png",Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/rxnFLHY/Arirang-BEARTV.png",Arirang
 https://e8.endpoint.cdn.sctvonline.vn/hls/arirang/01.m3u8|Referer=https://sctvonline.vn/
