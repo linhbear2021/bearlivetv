@@ -29,13 +29,13 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-BEARTV.png",QUỐC HỘI TV
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
-https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="nhandan" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN TV
 https://arpt.tvic.vn/live/nhandan720/chunklist_w1440822392.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png", VOVTV HD
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=https://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Gtcknx3/onviegiaitri-BEARTV.png",ON Vie GIẢI TRÍ
@@ -77,7 +77,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=https://sctvo
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/dM17yWZ/sctv5-BEARTV.png" ,SCTV 5
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png",SCTV 6
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8|Referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png" ,SCTV 7 - Sân Khấu
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.ibb.co/0tVLK8b/sctv8-BEARTV.png" ,SCTV 8-VITV - Kinh Tế Tài Chính
