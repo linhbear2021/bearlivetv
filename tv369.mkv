@@ -15,7 +15,7 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv5/01.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 TÂY NAM BỘ
 https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=https://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
