@@ -140,7 +140,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=https://sctvon
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="htvtheothao" group-title="HTV" tvg-logo="https://i.ibb.co/60nyjgj/VTC9-BEARTV.png",HTV Thể Thao HD
+#EXTINF:-1 tvg-id="htvtheothao" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV Thể Thao HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 
