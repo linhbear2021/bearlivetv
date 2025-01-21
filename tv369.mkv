@@ -119,15 +119,6 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer
 
 
 
-
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png",VTC1 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg",VTC5 HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/vtc5/01.m3u8|Referer=https://sctvonline.vn/
-
-
-
-
 #EXTINF:-1 tvg-id="htv1hd" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png" ,HTV 1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2
@@ -142,6 +133,11 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=https://sctvon
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="htvtheothao" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV Thể Thao HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png",HTVC Phim HD
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg",HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
