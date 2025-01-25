@@ -114,7 +114,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.ibb.co/njnhPPB/sctv21-hd-BEARTV.png" ,SCTV 21 - Ký ức Việt Nam
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png" ,SCTV 22 - SSPORT1
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=https://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=https://sctvonline.vn/
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17285
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
 
