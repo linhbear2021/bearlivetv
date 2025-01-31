@@ -38,7 +38,7 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv6/01.m3u8
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 #https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
-http://e4.endpoint.cdn.sctvo online.vn/hls/KPluscine/01.m3u8|Referer=http://sctvonline.vn/
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/c8vJyv9/kkids-hd-BEARTV.png",K+ Kids
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/01.m3u8
 
