@@ -147,9 +147,9 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/01.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="HANOITV 1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png",Hà Nội 1 HD
+#EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png",Hà Nội 1 HD
 https://cloudstreamqh.tek4tv.vn/live/HN1_1080p.m3u8
-#EXTINF:-1 tvg-id="HANOITV 2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png",Hà Nội 2 HD
+#EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png",Hà Nội 2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w385043217_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pXM42MF/drt1-BEARTV.png",Đà Nẵng 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
