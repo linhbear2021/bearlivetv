@@ -35,10 +35,11 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv6/01.m3u8
 
 
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 #https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8|Referer=http://sctvonline.vn/
+https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/c8vJyv9/kkids-hd-BEARTV.png",K+ Kids
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/01.m3u8
 
