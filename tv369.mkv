@@ -124,7 +124,8 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer
 #EXTINF:-1 tvg-id="htv1hd" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png" ,HTV 1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=https://sctvonline.vn/
+#https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=https://sctvonline.vn/
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png", HTV3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png", HTV Key
