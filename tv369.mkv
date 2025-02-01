@@ -39,11 +39,11 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/KNGvdzN/kcine-hd-BEARTV.png", K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png", K+ CINE
 https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://i.ibb.co/0QkrTBQ/kaction-BEARTV.png",K+ ACTION
 https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/c8vJyv9/kkids-hd-BEARTV.png",K+ KIDS
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/653e2608fd778429f347e5042432d6a24b6b5767.png",K+ KIDS
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/01.m3u8
 
 
