@@ -89,13 +89,13 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=https://sc
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV 2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV 2 - Today TV
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 - SEE TV
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 - See TV
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4 - Giải trí tổng hợp
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/dM17yWZ/sctv5-BEARTV.png" ,SCTV 5
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/dM17yWZ/sctv5-BEARTV.png" ,SCTV 5 - SJC TV Shopping
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/02.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png",SCTV 6
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/01.m3u8|Referer=https://sctvonline.vn/
@@ -105,7 +105,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8|Referer=https://s
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV 9
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://i.ibb.co/y8gsL76/SCTV10-BEARTV.webp" ,SCTV 10
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://i.ibb.co/y8gsL76/SCTV10-BEARTV.webp" ,SCTV 10 - VTV Huyndai
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV 11
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|Referer=https://sctvonline.vn/
