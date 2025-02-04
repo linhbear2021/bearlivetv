@@ -37,8 +37,7 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv6/01.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
-#https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
-https://khanggtivi.xyz/live/pini=sv1.localhost.ini/cartoon/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg2NDQ3NTAsImlwIjoiMTEzLjE5MS41Ny4yIiwidXNlcl9hZ2VudF9kZXYiOiJWTENcLzMuMC4yMCBMaWJWTENcLzMuMC4yMCIsInVzZXJJRCI6ImFub255bW91cyIsInVyaSI6ImxpdmVcL2NhcnRvb24ifQ.jqLsU54OUB0XvQkwubvkS6uJus6REbeZHnqYcVfGs_jxaE2SazGr5cNqrK5ye5gPZK5r9QreL3-VU-WsR6pYgA&ip=113.191.57.2&pini=sv1.localhost.ini&token=8bfef8d4639c41ae3f8df5a8f8257fd30d485da7-phUVkrNEupOUBdY7LKZN-w-1738655550-1738641150
+https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png", K+ CINE
 https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
@@ -183,8 +182,6 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w846180151_b1384000.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", THĐT1 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w231972584.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", THĐT2 | TH Đồng Tháp
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w1473886109.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png", HGTV | TH Hậu Giang
 https://e3.endpoint.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="thanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png", TTV | TH Thanh Hóa
@@ -204,6 +201,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://s
 https://khanggtivi.xyz/live/pini=sv2.localhost.ini/cinemax/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg2NDQ3NTAsImlwIjoiMTEzLjE5MS41Ny4yIiwidXNlcl9hZ2VudF9kZXYiOiJWTENcLzMuMC4yMCBMaWJWTENcLzMuMC4yMCIsInVzZXJJRCI6ImFub255bW91cyIsInVyaSI6ImxpdmVcL2NpbmVtYXgifQ.-56QhXCkauSMIVAkBCEjryRVlIIOSyWkMoAnhRyAKR8Fq9l72BLsoucSETWJqPqjQnFnr1O5f6E79XYicCM2-g&ip=113.191.57.2&pini=sv2.localhost.ini&token=ae93f258852cec467ae7bf99f908c2fbec05ddd3-dSWMlSVi6AkCS_s4InXpOw-1738655550-1738641150
 #EXTINF:-1 tvg-id="happykids"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Cartoon Netword
+https://khanggtivi.xyz/live/pini=sv1.localhost.ini/cartoon/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg2NDQ3NTAsImlwIjoiMTEzLjE5MS41Ny4yIiwidXNlcl9hZ2VudF9kZXYiOiJWTENcLzMuMC4yMCBMaWJWTENcLzMuMC4yMCIsInVzZXJJRCI6ImFub255bW91cyIsInVyaSI6ImxpdmVcL2NhcnRvb24ifQ.jqLsU54OUB0XvQkwubvkS6uJus6REbeZHnqYcVfGs_jxaE2SazGr5cNqrK5ye5gPZK5r9QreL3-VU-WsR6pYgA&ip=113.191.57.2&pini=sv1.localhost.ini&token=8bfef8d4639c41ae3f8df5a8f8257fd30d485da7-phUVkrNEupOUBdY7LKZN-w-1738655550-1738641150
 #EXTINF:-1 tvg-id="musicbox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png", Box Music
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="woman" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
