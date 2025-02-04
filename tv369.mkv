@@ -35,7 +35,8 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv6/01.m3u8
 
 
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+https://live-cdn03.qphim.net:8443/play/manifest/pkg3/anonymous/115.76.63.212/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg2NDQxOTksImlwIjoiMTE1Ljc2LjYzLjIxMiIsInVzZXJfYWdlbnRfZGV2Ijoib3hvbyIsInVzZXJJRCI6ImFub255bW91cyIsInVyaSI6ImxpdmVcL0tQbHVzU3BvcnQxIn0.rTA_k_WbhUohsJ4OnAOYNtHG0biOXRUdgVXuIVjO8HmurgZTks-fwlJmfF6ZR6sNsX2S30xuvdl2LGdvGE6rWg/63d4730031c66c1585b6fd689a6031598300cd26-tXV0-1738647799-1738640599/live/KPlusSport1/tracks-a1/playlist.ts.m3u8?checksign=false
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 #https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
 https://live-cdn02.qphim.net:8443/pini=sv2.localhost.ini/warnertv/tracks-v1/mono.ts.m3u8?ip=113.191.57.2&pini=sv2.localhost.ini&separate_audio=true&sessionID=36f1aced-e857-f973-0b3b-b684115bb011&signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg2NDM1NjcsImlwIjoiMTEzLjE5MS41Ny4yIiwidXNlcl9hZ2VudF9kZXYiOiJveG9vIiwidXNlcklEIjoiYW5vbnltb3VzIiwidXJpIjoibGl2ZVwvd2FybmVydHYifQ.1tIpvmY82dPoK_no4xyG-maLXt-OVzp-7LdRv2SmskMnoECkOAHKu2xTwPdX6aiSh1MfSE5bnWRdKwIrW6-GBQ&token=09971219f08e617044c10ec44c467afd344d5c63-Sis4fijvVN_p7dkilY9pBg-1738654367-1738639967
