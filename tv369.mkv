@@ -45,6 +45,8 @@ https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
 https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/653e2608fd778429f347e5042432d6a24b6b5767.png",K+ KIDS
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/01.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/653e2608fd778429f347e5042432d6a24b6b5767.png",K+ SPORT 1
+https://live-cdn03.qphim.net:8443/pini=sv3.localhost.ini/KPlusSport1/tracks-v1/playlist.ts.m3u8?pkg=pkg3.ini&userID=anonymous&ip=113.191.57.2&signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg2NDU4MjcsImlwIjoiMTEzLjE5MS41Ny4yIiwidXNlcl9hZ2VudF9kZXYiOiJveG9vIiwidXNlcklEIjoiYW5vbnltb3VzIiwidXJpIjoibGl2ZVwvS1BsdXNTcG9ydDEifQ.0g3sLcODSB7Iw8MafM5MYy1XCvwuVd0NywH_quvx522FlTUwfusg3nizsnzo83u6tAnMaWwvx9AZJbICZ8eMGQ&token=7c21926bd2119d7793d45f42dbf1e54d3d81e0d7-eA5N-1738649427-1738642227
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/Gtcknx3/onviegiaitri-BEARTV.png",ON Vie GIẢI TRÍ
@@ -186,8 +188,6 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w231972584.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="thanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png", TTV | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
-#EXTINF:-1 tvg-id="daklak" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/NmVVpFC/daklak-BEARTV.png", DRT | TH Dak Lak
-https://e8.endpoint.cdn.sctvonline.vn/hls/thdaklak/01.m3u8|Referer=https://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
