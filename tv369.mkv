@@ -42,7 +42,8 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png", K+ CINE
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/af8c22b708f0c3e467fd9ba59a70a71703b48caf.png",K+ ACTION
-https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
+#https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
+https://live-cdn04.qphim.net:8443/pini=sv1.localhost.ini/axn/tracks-v1a1/mono.ts.m3u8?ip=72.14.201.157&pini=sv1.localhost.ini&signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg4NTI5ODYsImlwIjoiNzIuMTQuMjAxLjE1NyIsInVzZXJfYWdlbnRfZGV2IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzEzMi4wLjAuMCBTYWZhcmlcLzUzNy4zNiIsInVzZXJJRCI6ImFub255bW91cyIsInVyaSI6ImxpdmVcL2F4biJ9.s_3EsvVs6LDO8DvYZXCcFpMITPF4H3dNZWSBgbs-OhslOwq5-SP_3b76vMM3nQU1rdaiNBje9YxURFLumq_-dw&token=ea5f67a91aceac627d6c1cde27f2c51bba3c3141-Q2VS46sUFT_n9iChXE2wdw-1738863786-1738849386
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/653e2608fd778429f347e5042432d6a24b6b5767.png",K+ KIDS
 https://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=https://sctvonline.vn/
 
