@@ -187,8 +187,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://s
 https://e8.endpoint.cdn.sctvonline.vn/hls/cinemax/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="happykids"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="cartoonhd"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png",Cartoon Network
-https://khanggtivi.xyz/live/pini=sv1.localhost.ini/cartoon/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJLdWJvTGl2ZSBDRE4iLCJleHAiOjE3Mzg2NDQ3NTAsImlwIjoiMTEzLjE5MS41Ny4yIiwidXNlcl9hZ2VudF9kZXYiOiJWTENcLzMuMC4yMCBMaWJWTENcLzMuMC4yMCIsInVzZXJJRCI6ImFub255bW91cyIsInVyaSI6ImxpdmVcL2NhcnRvb24ifQ.jqLsU54OUB0XvQkwubvkS6uJus6REbeZHnqYcVfGs_jxaE2SazGr5cNqrK5ye5gPZK5r9QreL3-VU-WsR6pYgA&ip=113.191.57.2&pini=sv1.localhost.ini&token=8bfef8d4639c41ae3f8df5a8f8257fd30d485da7-phUVkrNEupOUBdY7LKZN-w-1738655550-1738641150
+#EXTINF:-1 tvg-id="axnhd"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png",AXN
+http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png", Box Music
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="woman" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
