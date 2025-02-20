@@ -172,7 +172,8 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", THĐT1 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w231972584.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png", HGTV | TH Hậu Giang
-https://e3.endpoint.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8|Referer=https://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8|Referer=https://sctvonline.vn/
+https://hgtvdigital.vn/hls/backup.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png", TTV | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
