@@ -110,9 +110,6 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/02.m3u8|Referer=https://sctvonl
 https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV 16 - Phim Nước Ngoài
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV 17 - SSPORT 
-#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8|Referer=https://sctvonline.vn/
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV 18
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.ibb.co/gMJ1GRG/sctv19-hd-BEARTV.png" ,SCTV 19 - T CHANNEL
@@ -121,9 +118,6 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8|Referer=https://sctv
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.ibb.co/njnhPPB/sctv21-hd-BEARTV.png" ,SCTV 21 - Ký ức Việt Nam
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png" ,SCTV 22 - SSPORT1
-#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=https://sctvonline.vn/
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
 
@@ -144,6 +138,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=https://sctvon
 #EXTINF:-1 tvg-id="htvtheothao" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV Thể Thao HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.ibb.co/V9V4Qxh/HTVCGIADINH-BEARTV.png" group-title="HTV",HTVC Gia Đình
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.ibb.co/WyXTCbC/HTVCPHIM-BEARTV.png",HTVC Phim HD
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.ibb.co/Rp5f6BC/HTVCTHUANVIET-BEARTV.png",HTVC Thuần Việt
