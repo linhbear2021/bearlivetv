@@ -88,7 +88,7 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=https://s
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4 - Giải trí tổng hợp
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/dM17yWZ/sctv5-BEARTV.png" ,SCTV 5 - SJC TV Shopping
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/PsRD5Sdy/sctv5hd-BEARTV.png" ,SCTV 5 - SJC TV Shopping
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/02.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",SCTV 6
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/01.m3u8|Referer=https://sctvonline.vn/
