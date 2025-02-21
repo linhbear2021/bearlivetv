@@ -94,7 +94,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/02.m3u8|Referer=https://sctvonli
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png" ,SCTV 7 - Sân Khấu
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.ibb.co/0tVLK8b/sctv8-BEARTV.png" ,SCTV 8-VITV - Kinh Tế Tài Chính
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.ibb.co/wZwmVwvG/sctv8hd-BEARTV.png" ,SCTV 8-VITV - Kinh Tế Tài Chính
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV 9
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=https://sctvonline.vn/
