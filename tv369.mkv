@@ -197,10 +197,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=https://sctvo
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1024px-KIX_logo.svg.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planetearth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="warnertvhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/S3t95wQ/WBTV-BEARTV.png",Warner TV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
-#EXTINF:0 tvg-id="davincihd"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/zG0x6vC/Da-Vinci-BEARTV.png",Davinci
+#EXTINF:0 tvg-id="davinci"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/zG0x6vC/Da-Vinci-BEARTV.png",DaVinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
