@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTM3U BEARTV - tv369
+#EXTM3U BEARTV - tv369 - https://note.vg/raw/untitled-63271
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1   
 #https://e4.endpoint.cdn.sctvonline.vn/hls/vtv1/01.m3u8|Referer=https://sctvonline.vn/
