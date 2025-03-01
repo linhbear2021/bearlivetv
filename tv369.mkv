@@ -181,6 +181,12 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie//01.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:0 tvg-id="inthebox"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png",In The Box
+#https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="boxhits" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",Box Hits
+#https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax
@@ -197,10 +203,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=https://sctvo
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1024px-KIX_logo.svg.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="warnertvhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/S3t95wQ/WBTV-BEARTV.png",Warner TV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
-#EXTINF:0 tvg-id="davinci"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/zG0x6vC/Da-Vinci-BEARTV.png",DaVinci
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
 
