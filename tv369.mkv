@@ -37,7 +37,8 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/01.m3u8|Referer=https://sctvonlin
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
-https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
+#https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
+http://27.76.137.122:1935/standard/video1_stream.m3u8
 
 
 
