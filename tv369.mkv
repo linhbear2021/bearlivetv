@@ -177,6 +177,8 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w231972584.m3u8
 https://hgtvdigital.vn/hls/backup.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png", TTV | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
+#EXTINF:-1 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png", NTV | TH Nghệ An
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
