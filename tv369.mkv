@@ -209,21 +209,21 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvo
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="tv360.sk1" group-title="Sự kiện trực tiếp" group-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
+#EXTINF:-1 tvg-id="tv360.sk1" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
 https://tv.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk2" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2
+#EXTINF:-1 tvg-id="tv360.sk2" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2
 https://tv.TruyenHinh.Click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk3" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3
+#EXTINF:-1 tvg-id="tv360.sk3" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3
 https://tv.TruyenHinh.Click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk4" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+ 4
+#EXTINF:-1 tvg-id="tv360.sk4" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+ 4
 https://tv.TruyenHinh.Click/CoBan/tv360.sk4/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk5" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_480_270.png",TV360+ 5
+#EXTINF:-1 tvg-id="tv360.sk5" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_480_270.png",TV360+ 5
 https://tv.TruyenHinh.Click/CoBan/tv360.sk5/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk6" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_480_270.png",TV360+ 6
+#EXTINF:-1 tvg-id="tv360.sk6" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_480_270.png",TV360+ 6
 https://tv.TruyenHinh.Click/CoBan/tv360.sk6/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk7" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_480_270.png",TV360+ 7
+#EXTINF:-1 tvg-id="tv360.sk7" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_480_270.png",TV360+ 7
 https://tv.TruyenHinh.Click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk8" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_480_270.png",TV360+ 8
+#EXTINF:-1 tvg-id="tv360.sk8" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_480_270.png",TV360+ 8
 https://tv.TruyenHinh.Click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="tv360.sk9" group-title="Sự kiện trực tiếp"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 9
+#EXTINF:-1 tvg-id="tv360.sk9" group-title="SỰ KIỆN TRỰC TIẾP"  group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 9
 https://tv.TruyenHinh.Click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh
