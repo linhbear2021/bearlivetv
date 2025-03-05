@@ -30,7 +30,7 @@
           },
           "display": "default",
           "type": "single",
-          "label": "Việt Sub",
+          "label": "Live",
           "related": {
             "enable": true,
             "url": "https://iptv.nangcucz.link/films/nangcuc/related/20641",
@@ -58,20 +58,6 @@
                           "name": "Server 1",
                           "type": "hls",
                           "url": "https://media-hls.doppiocdn.org/b-hls-18/161623629/161623629_720p.m3u8",
-                          "default": false,
-                          "subtitles": [
-                            {
-                              "url": "https://img.nangcuc.tel/sub/diXPkJYE1slG/nc-1633-6d7igaikxw.srt",
-                              "label": "Việt Nam",
-                              "default": true
-                            }
-                          ]
-                        },
-                        {
-                          "id": "stream-link-20641-1",
-                          "name": "Server 2",
-                          "type": "hls",
-                          "url": "https://letshttps-2.hrspeed.net/hls/video/diXPkJYE1slG/MTc0MDk3NzQyMTMzOQ==_nc-1633-xk8evkyszf_,48,72,108,0p.mp4.urlset/master.m3u8",
                           "default": false,
                           "subtitles": [
                             {
