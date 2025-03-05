@@ -1,8 +1,5 @@
-// 20250305135914
-// https://iptv.nhadai.org/v1
-
 {
-  "id": "fptplay",
+ "id": "fptplay",
   "name": "FPT Play",
   "color": "#FF9E2D",
   "org_metadata": {
