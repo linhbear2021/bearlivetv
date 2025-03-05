@@ -9851,9 +9851,9 @@
       ]
     },
     {
-      "id": "khong-che",
-      "name": "Không Che",
-      "url": "https://iptv.nangcucz.link/films/nangcuc?c=khong-che",
+      "id": "1pondo",
+      "name": "1pondo",
+      "url": "",
       "image": {
         "type": "cover",
         "width": 300,
@@ -9862,10 +9862,10 @@
       },
       "grid_number": 1,
       "enable_detail": true,
-      "channels_title": "Không Che",
+      "channels_title": "1pondo",
       "display": "horizontal",
       "remote_data": {
-        "url": "https://iptv.nangcucz.link/films/nangcuc?c=khong-che",
+        "url": "",
         "request_headers": []
       },
       "paging": {
@@ -9880,17 +9880,17 @@
       },
       "channels": [
         {
-          "id": "20661-channel",
-          "name": "Nghi ngờ vợ ăn vụng sau lưng, chàng rể đụ luôn mẹ vợ để bình đẳng hóa mối quan hệ",
+          "id": "113017_612",
+          "name": "113017_612",
           "image": {
             "type": "cover",
-            "url": "https://img.nangcucz.link/nangcuc/thumbnail/2025-03-04/xtFhuRPXPpHJvAI8aw.png",
+            "url": "https://fbhost1.imgscloud.com/b/ei/CH36185.jpg",
             "width": 300,
             "height": 225
           },
           "display": "default",
           "type": "single",
-          "label": "Việt Sub",
+          "label": "HD",
           "related": {
             "enable": true,
             "url": "https://iptv.nangcucz.link/films/nangcuc/related/20661",
@@ -9902,72 +9902,28 @@
           },
           "sources": [
             {
-              "id": "source-20661",
+              "id": "113017_612",
               "name": "Source",
               "contents": [
                 {
-                  "id": "content-20661",
+                  "id": "113017_612",
                   "name": "Content",
                   "streams": [
                     {
-                      "id": "stream-20661",
+                      "id": "113017_612",
                       "name": "Stream Link",
                       "stream_links": [
                         {
-                          "id": "stream-link-20661-0",
+                          "id": "113017_612",
                           "name": "Server 1",
                           "type": "hls",
-                          "url": "https://letshttps-1.hrspeed.net/MTc0MTAxNzYzOTMzOA==_cVTKUoRV1u_master.m3u8",
+                          "url": "https://fc.maa1801.com/f/pzohakwafr/pzohakwafr.m3u8",
                           "default": false,
                           "subtitles": [
                             {
                               "url": "https://img.nangcuc.tel/sub/vSkjHnfxNfSC/nc-1635-nf3x4cua3z.srt",
                               "label": "Việt Nam",
                               "default": true
-                            }
-                          ]
-                        },
-                        {
-                          "id": "stream-link-20661-1",
-                          "name": "Server 2",
-                          "type": "hls",
-                          "url": "https://letshttps-1.hrspeed.net/MTc0MTAxNzYxMzA1Ng==_cVTKUoRV1u_master.m3u8",
-                          "default": false,
-                          "subtitles": [
-                            {
-                              "url": "https://img.nangcuc.tel/sub/vSkjHnfxNfSC/nc-1635-nf3x4cua3z.srt",
-                              "label": "Việt Nam",
-                              "default": true
-                            }
-                          ]
-                        },
-                        {
-                          "id": "stream-link-20661-2",
-                          "name": "Server 3",
-                          "type": "hls",
-                          "url": "https://letshttps-3.hrspeed.net/hls/video/vSkjHnfxNfSC/MTc0MDk4MDY2MTg4Mw==_nc-1635-0hqd6xqyyx_,48,72,108,0p.mp4.urlset/master.m3u8",
-                          "default": false,
-                          "subtitles": [
-                            {
-                              "url": "https://img.nangcuc.tel/sub/vSkjHnfxNfSC/nc-1635-nf3x4cua3z.srt",
-                              "label": "Việt Nam",
-                              "default": true
-                            }
-                          ]
-                        },
-                        {
-                          "id": "stream-link-20661-3",
-                          "name": "Server 4",
-                          "type": "hls",
-                          "url": "https://letshttps-2.hrspeed.net/hls/video/vSkjHnfxNfSC/MTc0MDk4MDY2MTg4Mw==_nc-1635-0hqd6xqyyx_,48,72,108,0p.mp4.urlset/master.m3u8",
-                          "default": false,
-                          "subtitles": [
-                            {
-                              "url": "https://img.nangcuc.tel/sub/vSkjHnfxNfSC/nc-1635-nf3x4cua3z.srt",
-                              "label": "Việt Nam",
-                              "default": true
-                            }
-                          ]
                         }
                       ]
                     }
