@@ -32,14 +32,16 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=https://sctvonline.vn/
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV CẦN THƠ
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/01.m3u8|Referer=https://sctvonline.vn/
+#https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/01.m3u8|Referer=https://sctvonline.vn/
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
 
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
-https://e8.endpoint.cdn.sctvonline.vn/hls/antv/index.m3u8|Referer=https://sctvonline.vn/
+#https://e8.endpoint.cdn.sctvonline.vn/hls/antv/index.m3u8|Referer=https://sctvonline.vn/
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
-https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
-
+#https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8|Referer=https://sctvonline.vn/
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:0 tvg-id="onviegiaitri"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie Giải Trí
