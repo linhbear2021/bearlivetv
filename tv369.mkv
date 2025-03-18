@@ -187,8 +187,8 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,Box Movie 1
-#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie//01.m3u8|Referer=https://sctvonline.vn/
-https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie//01.m3u8|Referer=https://sctvonline.vn/
+#https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="inthebox"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png",In The Box
 #https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
