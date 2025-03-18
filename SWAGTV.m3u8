@@ -812,7 +812,7 @@ https://ggcdns1.licealnewypracowania.pl/5b997a295c451bd1e0d412303b99e9f5/hls.m3u
 
 
 #EXTINF:-1 tvg-logo="https://img.nangcuc.tel/cdn-cgi/image/fit=scale-down,width=500,height=300,quality=80,format=webp/video/0KwzqvHkP2Gs/cover/nc-0444-snzsgkbwqw7t.png" group-title="NCTV",Cô giáo Bạch - Tập 1: cô học trò bị phá trinh
-#EXTVLCOPT: sub-track=https://img.nangcuc.tel/sub/0KwzqvHkP2Gs/nc-0444-dfiwxrldcl.srt
+#EXTVLCOPT:sub-track-id=https://img.nangcuc.tel/sub/0KwzqvHkP2Gs/nc-0444-dfiwxrldcl.srt
 https://letshttps-1.itproxy.net/btplCQGKTJga_smindex-f3-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://img.nangcuc.tel/cdn-cgi/image/fit=scale-down,width=500,height=300,quality=80,format=webp/video/DJEjNsU-uLYy/cover/nc-0445-9xvpgj8hbtwm.png" group-title="NCTV",Cô giáo Bạch - Tập 2: bức thư của Tiểu Tinh
 https://letshttps-1.hrspeed.net/btXbYxaJQRHr_smindex-f3-v1-a1.m3u8
