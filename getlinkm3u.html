@@ -87,7 +87,7 @@
                 let currentUrlIndex = 0; // Biến để theo dõi chỉ số URL hiện tại
 
                 $scope.fetchHLS = function () {
-                    $http.get('https://api.npoint.io/39fe20f4c3372eb4a5b6').then(function (response) {
+                    $http.get('https://web-api-vtvgo.vtvdigital.vn/home/api/v1/adapter/getRecommendedCategory?limit=20&page=1').then(function (response) {
                         const data = response.data;
                         const m3uContent = [];
                         m3uContent.push(`#${new Date()}`);
@@ -308,7 +308,7 @@
 
                 // Hàm để lấy dữ liệu từ trang web
                 function fetchData() {
-                    fetch('https://raw.githubusercontent.com/luongtamlong/Dak-Lak-IPTV/main/daklakiptv.m3u')
+                    fetch('https://raw.githubusercontent.com/linhbear2021/bearlivetv/refs/heads/main/beartvace')
                         .then(response => {
                             if (!response.ok) {
                                 throw new Error('Network response was not ok');
