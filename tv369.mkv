@@ -175,7 +175,7 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w231972584.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png", HGTV | TH Hậu Giang
 #https://e3.endpoint.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8|Referer=https://sctvonline.vn/
 https://hgtvdigital.vn/hls/backup.m3u8
-#EXTINF:-1 tvg-id="thainguyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/pc/logo.png?v=2.620250220083745", TN | TH Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TN1_logo_2017.png/revision/latest?cb=20231031073135&path-prefix=vi", TN1 | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://haiduongtv.vn/upload/files/logo/logo.png", THD | TH Hải Dương
 https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3u8
