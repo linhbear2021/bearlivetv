@@ -2,7 +2,7 @@
 
 #EXTM3U BEARTV - tv369
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/tv/vtv1HDbak/index-${start}-.m3u8",VTV1   
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/tv/vtv1HDbak/index-${start}-900.m3u8",VTV1   
 #https://e4.endpoint.cdn.sctvonline.vn/hls/vtv1/01.m3u8|Referer=https://sctvonline.vn/
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2
