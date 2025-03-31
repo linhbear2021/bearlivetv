@@ -115,8 +115,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",SCTV 14
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/02.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV 15 - SSPORT 2
-#https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=https://sctvonline.vn/
-https://e10.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/9MV2wCApbDuZw3lUFbA8FQ/1743526800/anonymous/live/sctv15/router_web_10.m3u8|Referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV 16 - PHIM NƯỚC NGOÀI
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17  SSPORT 3
