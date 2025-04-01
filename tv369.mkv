@@ -126,7 +126,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=https://sctvo
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV 16 - PHIM NƯỚC NGOÀI
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17  SSPORT 3
-https://e10.endpoint.cdn.sctvonline.vn/hls/sctv17/video_hd/playlist.m3u8|Referer=http://sctvonline.vn/
+https://e10.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/b1rjR78dzdGX2TtiF3RTqw/1743613200/7XCQYKR/live/sctv17/router_web_10.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV 18
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.ibb.co/gMJ1GRG/sctv19-hd-BEARTV.png" ,SCTV 19 - T CHANNEL
@@ -138,8 +138,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png" ,SCTV22  SSPORT 1 
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 2025
-#https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/live/hls/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
 
 
 
