@@ -139,7 +139,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|Referer=https://
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/FUNquJjgWacEgaH6XV7lYQ/1743613200/7XCQYKR/live/hls/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/live/hls/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
 
 
 
