@@ -37,7 +37,7 @@ https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV
 #https://e8.endpoint.cdn.sctvonline.vn/hls/antv/index.m3u8|Referer=https://sctvonline.vn/
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
