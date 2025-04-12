@@ -91,7 +91,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=https://sc
 https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/rkknhRgW47Sl8bpQuKCuzA/1744563600/7XCQYKR/live/sctv1/master.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV 2 - TODAY TV
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=https://sctvonline.vn/
-https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/live/sctv2/master.m3u8|Referer=https://sctvonline.vn/
+https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/rkknhRgW47Sl8bpQuKCuzA/1744563600/7XCQYKR/live/sctv2/master.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 - SEE TV
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=https://sctvonline.vn/
 https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/live/sctv3/master.m3u8|Referer=https://sctvonline.vn/
