@@ -94,7 +94,7 @@ https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/rkknhRgW47Sl8b
 https://e11.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/rkknhRgW47Sl8bpQuKCuzA/1744563600/7XCQYKR/live/sctv2/master.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 - SEE TV
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=https://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/E-rA5uamuEtkwhdhNQXRXg/1744563600/7XCQYKR/live/hls/sctv3/index.m3u8|Referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/live/hls/sctv3/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/PsRD5Sdy/sctv5hd-BEARTV.png" ,SCTV 5 - SJC TV SHOPPING
