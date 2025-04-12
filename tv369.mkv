@@ -111,7 +111,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=https://s
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://i.ibb.co/hRzh4Nfx/sctv10hd-BEARTV.png" ,SCTV 10 - VTV HUYNDAI
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV 11
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|Referer=https://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|Referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/live/channel/sctv11/01.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nDbnG8h/sctv12-hd-BEARTV.png" ,SCTV 12
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.ibb.co/YXt8w8v/sctv13-hd-BEARTV.png" ,SCTV 13
