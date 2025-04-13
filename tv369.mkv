@@ -247,9 +247,9 @@ http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlis
 
 
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="SỰ KIỆN TRỰC TIẾP"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
-https://tv.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
+https://edge1.laotv.la/sc/Fb054821164be445c9cf565eb4a5b09cc_1744511707_T8Po1WillV80OLu1rs75nVNxvsDA9kmJoGHlqx6CslA/tokenlive/LNTV1/manifest.mpd
 #EXTINF:-1 tvg-id="tv360.sk2" group-title="SỰ KIỆN TRỰC TIẾP"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2
-https://tv.TruyenHinh.Click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
+https://edge2.laotv.la/sc/Fb8b43c19f58647a3b6f6df7503a082bf_1744511804_CggwR1zWgk-sBU4sKq7J7-h-bbjix8N6au8hgIZlnLY/tokenlive/LNTV3/manifest.mpd
 #EXTINF:-1 tvg-id="tv360.sk3" group-title="SỰ KIỆN TRỰC TIẾP"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3
 https://tv.TruyenHinh.Click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk4" group-title="SỰ KIỆN TRỰC TIẾP"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+ 4
