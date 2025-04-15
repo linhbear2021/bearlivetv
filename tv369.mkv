@@ -99,7 +99,7 @@ https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/snNfeIz73ylTm6M
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/PsRD5Sdy/sctv5hd-BEARTV.png" ,SCTV 5 - SJC TV SHOPPING
 #https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/02.m3u8|Referer=https://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/XDNljfI3P5_Gfup7xHQIhA/1744650000/anonymous/live/hls/sctv5/index.m3u8|Referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/anonymous/live/hls/sctv5/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",SCTV 6
 #https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8|Referer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/S5_R_Nct75B8jzWK4T64-A/1744650000/anonymous/live/hls/sctv6/index.m3u8|Referer=https://sctvonline.vn/
