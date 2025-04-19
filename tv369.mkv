@@ -46,10 +46,11 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 
 
 #EXTINF:0 tvg-id="onviegiaitri"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
-http://14.177.53.107:8889/Vieon.php?id=vtvcab1
+http://123.24.87.212:8889/ace/tv360mpd.php?id=180
 #https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVCab" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png" ,ON MOVIES
-https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab4/index.m3u8|Referer=https://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab4/index.m3u8|Referer=https://sctvonline.vn/
+http://123.24.87.212:8889/ace/tv360mpd.php?id=175
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVCab" tvg-logo="https://i.ibb.co/tmCTzWk/ecn1-BEARTV.png",ON E CHANNEL
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=https://sctvonline.vn/
 #https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
