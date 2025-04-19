@@ -201,6 +201,8 @@ https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png", NTV | TH Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
+#EXTINF:-1 tvg-id="hatinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png", BHT | TH Hà Tĩnh
+https://wse.hatinhtv.net/live/httv1/chunklist_w237296675.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
@@ -243,8 +245,7 @@ http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlis
 
 
 
-#EXTINF:-1 tvg-id="tv360.sk1" group-title="SỰ KIỆN TRỰC TIẾP"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
-https://edge1.laotv.la/sc/Fb054821164be445c9cf565eb4a5b09cc_1744511707_T8Po1WillV80OLu1rs75nVNxvsDA9kmJoGHlqx6CslA/tokenlive/LNTV1/manifest.mpd
+
 #EXTINF:-1 tvg-id="tv360.sk2" group-title="SỰ KIỆN TRỰC TIẾP"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2
 https://edge2.laotv.la/sc/Fb8b43c19f58647a3b6f6df7503a082bf_1744511804_CggwR1zWgk-sBU4sKq7J7-h-bbjix8N6au8hgIZlnLY/tokenlive/LNTV3/manifest.mpd
 #EXTINF:-1 tvg-id="tv360.sk3" group-title="SỰ KIỆN TRỰC TIẾP"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3
