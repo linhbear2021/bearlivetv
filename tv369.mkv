@@ -92,15 +92,15 @@ http://123.24.87.212:8889/ace/tv360mpd.php?id=179
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv1|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV 2 - TODAY TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv2
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv2|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 - SEE TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv1
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv3|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=https://sctvonline.vn/
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv4|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/PsRD5Sdy/sctv5hd-BEARTV.png" ,SCTV 5 - SJC TV SHOPPING
 #https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/02.m3u8|Referer=https://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/anonymous/live/hls/sctv5/index.m3u8|Referer=https://sctvonline.vn/
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv5|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",SCTV 6
 #https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8|Referer=https://sctvonline.vn/
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -111,7 +111,7 @@ https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/bW9LoKYDBz_Gc2E
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8|Referer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/hVRtYSYC9-8pzX0IFgVKsQ/1744650000/anonymous/live/hls/sctv8/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV 9
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=https://sctvonline.vn/
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv9|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://i.ibb.co/hRzh4Nfx/sctv10hd-BEARTV.png" ,SCTV 10 - VTV HUYNDAI
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV 11
@@ -127,7 +127,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/02.m3u8|Referer=https://sctvonl
 #https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=https://sctvonline.vn/
 https://e10.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/McStlY7qz9oKUhXTuQg9bw/1744650000/anonymous/live/sctv15/router_windows_10.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV 16 - PHIM NƯỚC NGOÀI
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=https://sctvonline.vn/
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv16|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17  SSPORT 3
 https://tv.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV 18
