@@ -89,7 +89,7 @@ http://123.24.87.212:8889/ace/tv360mpd.php?id=179
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv1
+https://sctv.locket.website/sctvonline.m3u8?channel=sctv1|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV 2 - TODAY TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv2
