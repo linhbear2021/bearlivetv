@@ -103,20 +103,26 @@ https://sctv.locket.website/sctvonline.m3u8?channel=sctv21|Referer=https://sctvo
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP
 https://sctv.locket.website/sctvonline.m3u8?channel=sctvpth|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kcinehd/KenhBoSung",K+ Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click
+#EXTINF:-1 tvg-id="kaction" group-title="K+" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kaction/KenhBoSung",K+ Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/kaction/TruyenHinh.Click
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/ksport1hd/KenhBoSung",K+ Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
 https://xem.TruyenHinh.Click/BoSung/ksport1hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/ksport2hd/KenhBoSung",K+ Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
 https://xem.TruyenHinh.Click/BoSung/ksport2hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kkidshd/KenhBoSung",K+ Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/BoSung/ksportcinehd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/BoSung/ksportactionhd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png", KIDS HD
-https://xem.TruyenHinh.Click/BoSung/ksportkidshd/TruyenHinh.Click
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png" ,HTV1
