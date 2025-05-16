@@ -73,8 +73,6 @@ https://sctv.locket.website/sctvonline.m3u8?channel=sctv2|Referer=https://sctvon
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 - SEE TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv3|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv4|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",SCTV 6
 #https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8|Referer=https://sctvonline.vn/
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -220,8 +218,8 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/GQFqgWR/MBCKR-BEARTV.png",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w330852783.m3u8
-
-
+#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/B5FbTKnJ/kcna-BEARTV.png" ,KCNA
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png",RHM HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png",HM HDTV
