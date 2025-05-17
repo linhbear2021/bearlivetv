@@ -65,8 +65,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv1|Referer=https://sctvonline.vn/
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/cb563d1b7c6c638884ce3778d1f16283ae4e3de10b619d602dd60dc56ac3015886a2f2d1f91db93d5d9a498c60176e530b36d618df2a01dad77af95429784225999fe37ed198415fb6d21f1014e22e5d4faf4e55bf77167cdde51f7aeb57d9422423d8364c631ca9912cc07c40ffbf5bdf3c37dff89b386a283502ce0608c79f649e94952823a11fd4de6139ee5a28eda078fc8548f89e9379a779b11d966de9f688e6d938b8b0c037ea49f7357b364811a2b54ab6fb6297fdbf470da12b6c2c6e54e2b0ddfa4b2a8f444663f5f0cfba698d63a4e71ea545019223bd70a91fae4e8634fd9224c5acbfcc0c494bceae335a0f85cc87a2cf0869c40c9da3edce3d7f9b847b122af24ef901031db2c8f820a1f128ccc649e3b56d0e76c98137fdf7d6b8c680b010e04fa6c6f08b73435e733b0c8750a7e801b143e65998fe2c0f7d606190c02daee1d85a232c4b8f842cb9797082ffaeb5f62d1ef5493f67da0ab33b770cb654261cb74dc3e3561fac3e05b5393ce25d27ac4bfef77ebbf688ab5549d5a4a7489e3af7d4eab338fa68cc5a9431506346202d2096defd390978ffbb/5/720x480_1020588/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV 2 - TODAY TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv2|Referer=https://sctvonline.vn/
