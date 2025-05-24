@@ -178,6 +178,8 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png", BHT | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w237296675.m3u8
+#EXTINF:-1 tvg-id="travinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822191326/79178ff17a5b_640_360.png", THTV | TH Trà Vinh
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1165907907.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT | TH Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist_w489075496.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://ktv.org.vn/wp-content/uploads/2024/02/LOGO-TET.png", KTV | TH Khánh Hòa
@@ -220,8 +222,6 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/GQFqgWR/MBCKR-BEARTV.png",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w330852783.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/B5FbTKnJ/kcna-BEARTV.png" ,KCNA
-https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TVK_Cambodian_Logos_%28%E1%9E%91%E1%9E%BC%E1%9E%9A%E1%9E%91%E1%9E%9F%E1%9F%92%E1%9E%9F%E1%9E%93%E1%9F%8D%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%29.jpg" ,TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/nCPKFtV/tvk2-BEARTV.jpg" ,TVK 2
