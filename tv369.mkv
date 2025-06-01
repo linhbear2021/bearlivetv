@@ -76,8 +76,6 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",SCTV 6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.ibb.co/wZwmVwvG/sctv8hd-BEARTV.png" ,SCTV 8- VITV
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV 9
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",SCTV 14
@@ -182,6 +180,8 @@ https://live.canthotv.vn/live/tv_web/chunklist_w489075496.m3u8
 https://tv.ktv.org.vn/hls/ktv2.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="ĐỊA PHƯƠNG" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg" ,TVB Việt Nam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
