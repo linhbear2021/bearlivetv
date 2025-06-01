@@ -65,6 +65,10 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="onkids" group-title="VTVCab" tvg-logo="https://i.ibb.co/zbmJhcy/ON-Kids-BEARTV.png",ON Kids
 https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/360/179/index.m3u8
+#EXTINF:-1 tvg-id="onlife" group-title="VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", On Life
+https://sgchill.io.vn/360/188/index.m3u8
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVCab" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf
+https://sgchill.io.vn/360/169/index.m3u8
 
 
 
@@ -76,10 +80,6 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",SCTV 6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV 9
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",SCTV 14
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV 16 - PHIM NƯỚC NGOÀI
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV 18
