@@ -83,9 +83,9 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.ibb.co/njnhPPB/sctv21-hd-BEARTV.png" ,SCTV 21 - KÝ ỨC VIỆT NAM
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+https://e1.endpoint.cdn.sctvonline.vn/v1/sctvonline/2/_1Eo2RO3cH-5VhAdPPcLDg/1749488400/anonymous/live/hls/sctv21/02.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP
-https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
+https://e8.endpoint.cdn.sctvonline.vn/v1/sctvonline/2/ES7Eq4b38gu7zB9j0nbozA/1749488400/anonymous/live/hls/sctvphimtonghop/01.m3u8
 
 
 
