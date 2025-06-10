@@ -229,7 +229,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png",HM HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/196bs6f/CCTV1-BEARTV.png",CCTV 1
-http://112.123.206.32:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92kpcPC/CCTV5plus-BEARTV.png" ,CCTV 5+
-http://49.0.64.96:8007/CCTV-5
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV 50fps" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3 50fps    
+https://xem.TruyenHinh.Click/CoBan/vtv3hd.fps/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV 50fps" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5 50fps
+https://xem.TruyenHinh.Click/CoBan/vtv5hd.fps/TuyetDoiKhongKinhDoanh.m3u8
