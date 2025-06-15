@@ -141,7 +141,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w2134133001_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png", HN2 | Hà Nội 2
 #https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w385043217_b3128000_slen.m3u8
-https://cloudstreamqh.tek4tv.vn/live/hanoi2.m3u8
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1576773412.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pXM42MF/drt1-BEARTV.png", DA NANG TV1 |Đà Nẵng 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2gfYpRQ/drt2-BEARTV.png", DA NANG TV2 |Đà Nẵng 2
@@ -230,7 +230,7 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playl
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png",HM HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV 50fps" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3 50fps    
-https://xem.TruyenHinh.Click/CoBan/vtv3hd.fps/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV 50fps" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5 50fps
+#EXTINF:-1 tvg-id="onviedramas" group-title="Thử Nghiệm" tvg-logo="https://i.ibb.co/kJVhzbt/onviedrama-BEARTV.png",ON Vie DRAMAS
+https://sgchill.io.vn/360/177/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Thử Nghiệm" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5 50fps
 https://xem.TruyenHinh.Click/CoBan/vtv5hd.fps/TuyetDoiKhongKinhDoanh.m3u8
