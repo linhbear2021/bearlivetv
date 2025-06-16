@@ -226,10 +226,6 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/GQFqgWR/MBCKR-BEARTV.png",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w330852783.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TVK_Cambodian_Logos_%28%E1%9E%91%E1%9E%BC%E1%9E%9A%E1%9E%91%E1%9E%9F%E1%9F%92%E1%9E%9F%E1%9E%93%E1%9F%8D%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%29.jpg" ,TVK
-https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/nCPKFtV/tvk2-BEARTV.jpg" ,TVK 2
-https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png",RHM HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png",HM HDTV
