@@ -231,7 +231,9 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playl
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png",HM HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="onviegiaitri"group-title="Thử Nghiệm" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
+http://222.254.57.221:8889/Vieon.php?id=vtvcab1
 #EXTINF:-1 tvg-id="onviedramas" group-title="Thử Nghiệm" tvg-logo="https://i.ibb.co/kJVhzbt/onviedrama-BEARTV.png",ON Vie DRAMAS
 http://222.254.57.221:8889/Vieon.php?id=vtvcab19
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Thử Nghiệm" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5 50fps
-https://xem.TruyenHinh.Click/CoBan/vtv5hd.fps/TuyetDoiKhongKinhDoanh.m3u8
+
