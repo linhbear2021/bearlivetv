@@ -90,15 +90,15 @@ https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
 
 
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/TodayTV_%28VTC7%29.png/revision/latest?cb=20200124081231" ,TODAY TV - SCTV 2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/02/26/22/1740582677991/5a4a9bb5a63c_640_360.png" ,SCTV 2 - TODAY TV
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="TV360" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",FIM360 - SCTV 6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/11/04/11/1667535115954/f66b7a793cbb_640_360.png",SCTV 6 - FIM360
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png" ,TVB Việt Nam
+#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png" ,TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="tv360.Mekong" group-title="TV360" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.Mekong/KenhCoBan",MEKONG TV
+#EXTINF:-1 tvg-id="tv360.Mekong" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/TV360_Mekong.png/revision/latest?cb=20250401154728&path-prefix=vi",MEKONG TV
 https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="TV360" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.PhimAuMy/KenhCoBan",PHIM ÂU MỸ
+#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",PHIM ÂU MỸ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 
 
