@@ -90,10 +90,16 @@ https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
 
 
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV 2 - TODAY TV
+#EXTINF:-1 tvg-id="sctv2hd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/TodayTV_%28VTC7%29.png/revision/latest?cb=20200124081231" ,TODAY TV - SCTV 2
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",SCTV 6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="TV360" tvg-logo="https://i.ibb.co/N2MCGY99/sctv6hd-BEARTV.png",FIM360 - SCTV 6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png" ,TVB Việt Nam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="tv360.Mekong" group-title="TV360" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.Mekong/KenhCoBan",MEKONG TV
+https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="TV360" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.PhimAuMy/KenhCoBan",PHIM ÂU MỸ
+https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 
 
 
@@ -183,8 +189,7 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1165907907.m3u8
 https://live.canthotv.vn/live/tv_web/chunklist_w489075496.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-id="" group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5f/784px-Tvb_logo.svg.png" ,TVB Việt Nam
-https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
