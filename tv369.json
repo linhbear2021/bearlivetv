@@ -24,12 +24,12 @@
       "display": "horizontal",
       "channels": [
         {
-          "id": "VTV1_HD",
-          "name": "VTV1 HD",
+          "id": "VTV1",
+          "name": "VTV1",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+            "url": "https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",
             "height": 101,
             "width": 155
           },
@@ -56,8 +56,8 @@
                       },
                       "stream_links": [
                         {
-                          "id": "vtv1-hd",
-                          "name": "VTV1 HD",
+                          "id": "vtv1",
+                          "name": "VTV1",
                           "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8",
                           "type": "hls",
                           "default": true
