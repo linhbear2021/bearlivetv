@@ -1,0 +1,405 @@
+{
+  "grid_number": 2,
+  "image": {
+    "display": "contain",
+    "shape": "square",
+    "url": "http://iptv.nhadai.org/logo.png",
+    "height": 101,
+    "width": 155
+  },
+  "load_more": {
+    "pageInfo": {
+      "current_page": 1,
+      "total": 7,
+      "per_page": 30,
+      "last_page": 1
+    },
+    "paging": {
+      "page_key": "page",
+      "size_key": "size"
+    },
+    "remote_data": {
+      "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
+    }
+  },
+  "channels": [
+    {
+      "id": "VTV1_HD",
+      "name": "VTV1 HD",
+      "image": {
+        "display": "contain",
+        "shape": "square",
+        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+        "height": 101,
+        "width": 155
+      },
+      "type": "single",
+      "display": "text-below",
+      "sources": [
+        {
+          "id": "vtv1-hd",
+          "name": "",
+          "contents": [
+            {
+              "id": "vtv1-hd",
+              "name": "",
+              "streams": [
+                {
+                  "id": "vtv1-hd",
+                  "name": "VTV1 HD",
+                  "image": {
+                    "display": "contain",
+                    "shape": "square",
+                    "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+                    "height": 101,
+                    "width": 155
+                  },
+                  "stream_links": [
+                    {
+                      "id": "vtv1-hd",
+                      "name": "VTV1 HD",
+                      "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+                      "type": "hls",
+                      "default": true
+                    }
+                  ],
+                  "remote_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "share": {
+        "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
+      },
+      "related": {
+        "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
+      }
+    },
+    {
+      "id": "VTV3_HD",
+      "name": "VTV3 HD",
+      "image": {
+        "display": "contain",
+        "shape": "square",
+        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+        "height": 101,
+        "width": 155
+      },
+      "type": "single",
+      "display": "text-below",
+      "sources": [
+        {
+          "id": "vtv3-hd",
+          "name": "",
+          "contents": [
+            {
+              "id": "vtv3-hd",
+              "name": "",
+              "streams": [
+                {
+                  "id": "vtv3-hd",
+                  "name": "VTV3 HD",
+                  "image": {
+                    "display": "contain",
+                    "shape": "square",
+                    "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+                    "height": 101,
+                    "width": 155
+                  },
+                  "stream_links": [
+                    {
+                      "id": "vtv3-hd",
+                      "name": "VTV3 HD",
+                      "url": "http://iptv.nhadai.org/stream/vtv3-hd",
+                      "type": "hls",
+                      "default": true
+                    }
+                  ],
+                  "remote_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "share": {
+        "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
+      },
+      "related": {
+        "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
+      }
+    },
+    {
+      "id": "VTV5_HD",
+      "name": "VTV5 HD",
+      "image": {
+        "display": "contain",
+        "shape": "square",
+        "url": "http://iptv.nhadai.org/img/vtv5-hd.png",
+        "height": 101,
+        "width": 155
+      },
+      "type": "single",
+      "display": "text-below",
+      "sources": [
+        {
+          "id": "vtv5-hd",
+          "name": "",
+          "contents": [
+            {
+              "id": "vtv5-hd",
+              "name": "",
+              "streams": [
+                {
+                  "id": "vtv5-hd",
+                  "name": "VTV5 HD",
+                  "image": {
+                    "display": "contain",
+                    "shape": "square",
+                    "url": "http://iptv.nhadai.org/img/vtv5-hd.png",
+                    "height": 101,
+                    "width": 155
+                  },
+                  "stream_links": [
+                    {
+                      "id": "vtv5-hd",
+                      "name": "VTV5 HD",
+                      "url": "http://iptv.nhadai.org/stream/vtv5-hd",
+                      "type": "hls",
+                      "default": true
+                    }
+                  ],
+                  "remote_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "share": {
+        "url": "http://iptv.nhadai.org/share?q=vtv5-hd"
+      },
+      "related": {
+        "url": "http://iptv.nhadai.org/related?q=vtv5-hd"
+      }
+    },
+    {
+      "id": "VTV_CAN_THO",
+      "name": "VTV Cần Thơ",
+      "image": {
+        "display": "contain",
+        "shape": "square",
+        "url": "http://iptv.nhadai.org/img/vtv-can-tho.png",
+        "height": 101,
+        "width": 155
+      },
+      "type": "single",
+      "display": "text-below",
+      "sources": [
+        {
+          "id": "vtv-can-tho",
+          "name": "",
+          "contents": [
+            {
+              "id": "vtv-can-tho",
+              "name": "",
+              "streams": [
+                {
+                  "id": "vtv-can-tho",
+                  "name": "VTV Cần Thơ",
+                  "image": {
+                    "display": "contain",
+                    "shape": "square",
+                    "url": "http://iptv.nhadai.org/img/vtv-can-tho.png",
+                    "height": 101,
+                    "width": 155
+                  },
+                  "stream_links": [
+                    {
+                      "id": "vtv-can-tho",
+                      "name": "VTV Cần Thơ",
+                      "url": "http://iptv.nhadai.org/stream/vtv-can-tho",
+                      "type": "hls",
+                      "default": true
+                    }
+                  ],
+                  "remote_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "share": {
+        "url": "http://iptv.nhadai.org/share?q=vtv-can-tho"
+      },
+      "related": {
+        "url": "http://iptv.nhadai.org/related?q=vtv-can-tho"
+      }
+    },
+    {
+      "id": "FPT_PLAY",
+      "name": "FPT Play",
+      "image": {
+        "display": "contain",
+        "shape": "square",
+        "url": "http://iptv.nhadai.org/img/fpt-play.png",
+        "height": 101,
+        "width": 155
+      },
+      "type": "single",
+      "display": "text-below",
+      "sources": [
+        {
+          "id": "fpt-play",
+          "name": "",
+          "contents": [
+            {
+              "id": "fpt-play",
+              "name": "",
+              "streams": [
+                {
+                  "id": "fpt-play",
+                  "name": "FPT Play",
+                  "image": {
+                    "display": "contain",
+                    "shape": "square",
+                    "url": "http://iptv.nhadai.org/img/fpt-play.png",
+                    "height": 101,
+                    "width": 155
+                  },
+                  "stream_links": [
+                    {
+                      "id": "fpt-play",
+                      "name": "FPT Play",
+                      "url": "http://iptv.nhadai.org/stream/fpt-play",
+                      "type": "hls",
+                      "default": true
+                    }
+                  ],
+                  "remote_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "share": {
+        "url": "http://iptv.nhadai.org/share?q=fpt-play"
+      },
+      "related": {
+        "url": "http://iptv.nhadai.org/related?q=fpt-play"
+      }
+    },
+    {
+      "id": "HTVC_THE_THAO",
+      "name": "HTVC Thể Thao",
+      "image": {
+        "display": "contain",
+        "shape": "square",
+        "url": "http://iptv.nhadai.org/img/htvc-the-thao.png",
+        "height": 101,
+        "width": 155
+      },
+      "type": "single",
+      "display": "text-below",
+      "sources": [
+        {
+          "id": "htvc-the-thao",
+          "name": "",
+          "contents": [
+            {
+              "id": "htvc-the-thao",
+              "name": "",
+              "streams": [
+                {
+                  "id": "htvc-the-thao",
+                  "name": "HTVC Thể Thao",
+                  "image": {
+                    "display": "contain",
+                    "shape": "square",
+                    "url": "http://iptv.nhadai.org/img/htvc-the-thao.png",
+                    "height": 101,
+                    "width": 155
+                  },
+                  "stream_links": [
+                    {
+                      "id": "htvc-the-thao",
+                      "name": "HTVC Thể Thao",
+                      "url": "http://iptv.nhadai.org/stream/htvc-the-thao",
+                      "type": "hls",
+                      "default": true
+                    }
+                  ],
+                  "remote_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "share": {
+        "url": "http://iptv.nhadai.org/share?q=htvc-the-thao"
+      },
+      "related": {
+        "url": "http://iptv.nhadai.org/related?q=htvc-the-thao"
+      }
+    },
+    {
+      "id": "HTV9_HD",
+      "name": "HTV9 HD",
+      "image": {
+        "display": "contain",
+        "shape": "square",
+        "url": "http://iptv.nhadai.org/img/htv9-hd.png",
+        "height": 101,
+        "width": 155
+      },
+      "type": "single",
+      "display": "text-below",
+      "sources": [
+        {
+          "id": "htv9-hd",
+          "name": "",
+          "contents": [
+            {
+              "id": "htv9-hd",
+              "name": "",
+              "streams": [
+                {
+                  "id": "htv9-hd",
+                  "name": "HTV9 HD",
+                  "image": {
+                    "display": "contain",
+                    "shape": "square",
+                    "url": "http://iptv.nhadai.org/img/htv9-hd.png",
+                    "height": 101,
+                    "width": 155
+                  },
+                  "stream_links": [
+                    {
+                      "id": "htv9-hd",
+                      "name": "HTV9 HD",
+                      "url": "http://iptv.nhadai.org/stream/htv9-hd",
+                      "type": "hls",
+                      "default": true
+                    }
+                  ],
+                  "remote_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "share": {
+        "url": "http://iptv.nhadai.org/share?q=htv9-hd"
+      },
+      "related": {
+        "url": "http://iptv.nhadai.org/related?q=htv9-hd"
+      }
+    }
+  ]
+}
