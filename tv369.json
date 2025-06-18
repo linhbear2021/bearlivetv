@@ -411,17 +411,17 @@
       "enable_detail": false
     },
     {
-      "id": "co-ban",
-      "name": "Cơ Bản",
+      "id": "vtvcab",
+      "name": "VTVCab",
       "display": "horizontal",
       "channels": [
         {
-          "id": "FPT_PLAY",
-          "name": "FPT Play",
+          "id": "onviegiaitri",
+          "name": "ON GIẢI TRÍ",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.nhadai.org/img/fpt-play.png",
+            "url": "https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",
             "height": 101,
             "width": 155
           },
@@ -429,28 +429,28 @@
           "display": "text-below",
           "sources": [
             {
-              "id": "fpt-play",
+              "id": "onviegiaitri",
               "name": "",
               "contents": [
                 {
-                  "id": "fpt-play",
+                  "id": "onviegiaitri",
                   "name": "",
                   "streams": [
                     {
-                      "id": "fpt-play",
-                      "name": "FPT Play",
+                      "id": "onviegiaitri",
+                      "name": "ON GIẢI TRÍ",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/fpt-play.png",
+                        "url": "https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
-                          "id": "fpt-play",
-                          "name": "FPT Play",
-                          "url": "http://iptv.nhadai.org/stream/fpt-play",
+                          "id": "onviegiaitri",
+                          "name": "ON GIẢI TRÍ",
+                          "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -463,10 +463,10 @@
             }
           ],
           "share": {
-            "url": "http://iptv.nhadai.org/share?q=fpt-play"
+            "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8"
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=fpt-play"
+            "url": "https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8"
           }
         },
         {
