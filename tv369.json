@@ -19,8 +19,8 @@
   "grid_number": 1,
   "groups": [
     {
-      "id": "ca-nhan",
-      "name": "Nổi Bật",
+      "id": "vtv",
+      "name": "VTV",
       "display": "horizontal",
       "channels": [
         {
@@ -406,7 +406,7 @@
       "grid_columns": null,
       "remote_data": {
         "enable": false,
-        "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
+        "url": "https://raw.githubusercontent.com/linhbear2021/bearlivetv/refs/heads/main/group-vtv"
       },
       "enable_detail": false
     },
