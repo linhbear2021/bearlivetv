@@ -1,13 +1,13 @@
 {
-  "id": "fptplay",
-  "name": "FPT Play",
+  "id": "tv369",
+  "name": "TV 369",
   "color": "#FF9E2D",
   "org_metadata": {
     "image": "http://iptv.nhadai.org/s-banner.png",
-    "title": "FPT Play - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
-    "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế."
+    "title": "TV 369 - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
+    "description": "TV 369 - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế."
   },
-  "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế.",
+  "description": "TV 369 - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế.",
   "url": "http://iptv.nhadai.org/v1",
   "image": {
     "display": "contain",
@@ -37,20 +37,20 @@
           "display": "text-below",
           "sources": [
             {
-              "id": "vtv1-hd",
+              "id": "vtv1",
               "name": "",
               "contents": [
                 {
-                  "id": "vtv1-hd",
+                  "id": "vtv1",
                   "name": "",
                   "streams": [
                     {
-                      "id": "vtv1-hd",
-                      "name": "VTV1 HD",
+                      "id": "vtv1",
+                      "name": "VTV1",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+                        "url": "https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",
                         "height": 101,
                         "width": 155
                       },
@@ -58,7 +58,7 @@
                         {
                           "id": "vtv1-hd",
                           "name": "VTV1 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+                          "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -71,10 +71,10 @@
             }
           ],
           "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
+            "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8"
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
+            "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8"
           }
         },
         {
