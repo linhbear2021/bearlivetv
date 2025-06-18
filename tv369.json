@@ -1,18 +1,18 @@
 {
-  "id": "tv369",
-  "name": "TV 369",
+  "id": "beartv",
+  "name": "BEAR TV",
   "color": "#FF9E2D",
   "org_metadata": {
     "image": "http://iptv.nhadai.org/s-banner.png",
-    "title": "TV 369 - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
-    "description": "TV 369 - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế."
+    "title": "BEAR TV - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
+    "description": "BEAR TV - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế."
   },
-  "description": "TV 369 - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế.",
-  "url": "http://iptv.nhadai.org/v1",
+  "description": "BEAR TV - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế.",
+  "url": "https://raw.githubusercontent.com/linhbear2021/bearlivetv/refs/heads/main/tv369.json",
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://viettel-digital.com/wp-content/uploads/2024/03/TV360-logo.webp",
+    "url": "https://i.ibb.co/fD13MRN/BEARTV.png",
     "height": 101,
     "width": 155
   },
@@ -83,7 +83,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+            "url": "https://s71136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",
             "height": 101,
             "width": 155
           },
@@ -104,7 +104,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+                        "url": "https://s71136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",
                         "height": 101,
                         "width": 155
                       },
