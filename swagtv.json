@@ -43,14 +43,33 @@
             "url": "https://watch-bp.swag.live/default/65f7b3fe19f2fc88aca960f9.flv",
             "items": [],
             "request_headers": []
-          }
+        },
+          "share": {
+            "url": "http://iptv.nangcucz.link/films/nangcuc/share/3-tieng-thoi-com-cung-em-tiktoker-vu-bu-unpai"
+          },
+          "sources": [
+            {
+              "id": "source-16897",
+              "name": "Source",
+              "contents": [
+                {
+                  "id": "content-16897",
+                  "name": "Content",
+                  "streams": [
+                    {
+                      "id": "stream-16897",
+                      "name": "Stream Link",
+                      "remote_data": {
+                        "url": "http://iptv.nangcucz.link/films/nangcuc/3-tieng-thoi-com-cung-em-tiktoker-vu-bu-unpai",
+                        "encrypted": true
+                      }
                     }
                   ]
                 }
               ]
             }
           ]
-          },
+        },
         {
           "id": "16897-channel",
           "name": "3 tiếng thổi \"cơm\" cùng em Tiktoker vú bự Unpai",
