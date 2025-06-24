@@ -171,8 +171,8 @@
           ]
         },
         {
-          "id": "76591-channel",
-          "name": "Qua ngủ nhờ một đêm tại nhà em đồng nghiệp, ai ngờ em lại dâm đến thế",
+          "id": "76591",
+          "name": "abc",
           "description": "Một ngày nọ, công ty tổ chức buổi tiệc giao lưu, ôi thì tuy tửu lượng kém nhưng vẫn bị ép uống đến say mềm. Cuối cùng, tôi lỡ mất chuyến tàu cuối và cũng chẳng còn tiền để bắt taxi. Trong lúc đang không biết làm sao, một đồng nghiệp nữ tên Shizukawa – vốn tin rằng tôi là kiểu người nghiêm túc, không vượt quá giới hạn – bất ngờ nói: “Nếu chờ chuyến đầu tiên thì cậu có thể qua nhà tớ đấy.” Tôi đã đồng ý, nghĩ đơn giản chỉ là một chỗ qua đêm.Ai ngờ khi vừa đến nhà cô ấy, dù trong lòng khá hồi hộp nhưng tôi cố giữ bình tĩnh. Cô ấy nói sẽ đi thay đồ. Một lúc sau, Shizuka quay lại với bộ đồ ngủ mỏng tang, thậm chí không mặc áo trong, để lộ cả hai hột nhãn hồng hào đầy vô tư khiến tôi bắt đầu rạo rực lắm.. Và tôi – người đàn ông vốn luôn giữ vẻ ngoài chừng mực – đã không còn kìm nén bản năng thêm được nữa...",
           "image": {
             "type": "cover",
@@ -195,22 +195,22 @@
             "request_headers": []
           },
           "share": {
-            "url": "http://iptv.nangcucz.link/films/nangcuc/share/qua-ngu-nho-mot-dem-tai-nha-em-dong-nghiep-ai-ngo-em-lai-dam-den-the"
+            "url": "https://fc.maa1801.com/f/pzohakwafr/pzohakwafr.m3u8"
           },
           "sources": [
             {
-              "id": "source-76591",
+              "id": "76591",
               "name": "Source",
               "contents": [
                 {
-                  "id": "content-76591",
+                  "id": "76591",
                   "name": "Content",
                   "streams": [
                     {
-                      "id": "stream-76591",
+                      "id": "76591",
                       "name": "Stream Link",
                       "remote_data": {
-                        "url": "http://iptv.nangcucz.link/films/nangcuc/qua-ngu-nho-mot-dem-tai-nha-em-dong-nghiep-ai-ngo-em-lai-dam-den-the",
+                        "url": "https://fc.maa1801.com/f/pzohakwafr/pzohakwafr.m3u8",
                         "encrypted": true
                       }
                     }
