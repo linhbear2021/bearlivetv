@@ -121,46 +121,46 @@
           ]
         },
         {
-          "id": "76633-channel",
-          "name": "Tôi đã chịch con gái của chủ tiệm tắm công cộng Mami Mashiro",
-          "description": "Kỳ nghỉ hiếm hoi – và kế hoạch hồi sinh tiệm tắm công cộng của gia đình của Mami MashiroTrong lần trở về quê sau thời gian dài làm việc, Mami quyết định phụ giúp gia đình quản lý tiệm tắm công cộng đã lâu không còn nhộn nhịp như xưa. Với mong muốn mang lại sức sống mới cho nơi thân thuộc này, cô nảy ra ý tưởng tận dụng kỹ năng đặc biệt mà mình đã tích lũy trong công việc trước đây để tạo nên một trải nghiệm “thư giãn toàn diện” cho khách hàng.Bằng sự tự tin, vẻ ngoài nổi bật và khả năng giao tiếp khéo léo, Mami nhanh chóng khiến lượng khách tìm đến tiệm tắm tăng vọt. Tuy nhiên, dịch vụ \"vượt mong đợi\" ấy cũng khiến mọi chuyện trở nên... vượt ngoài dự tính ban đầu.",
+          "id": "Betty20zx",
+          "name": "Betty20zx",
+          "description": "Stripchat",
           "image": {
             "type": "cover",
-            "url": "https://img.nangcucz.link/nangcuc/thumbnail/2025-06-23/riTv3gWw2MBNKJcx0y.png",
+            "url": "https://static-cdn.strpst.com/avatars/d/0/f/d0fe7c771a6efb760bca3fcc7fe28602",
             "width": 500,
             "height": 281
           },
           "display": "text-below",
           "type": "single",
           "label": {
-            "text": "Việt sub",
+            "text": "💋 Trực Tiếp",
             "position": "top-left",
             "color": "#fea016",
             "text_color": "#ffffff"
           },
           "related": {
             "enable": true,
-            "url": "http://iptv.nangcucz.link/films/nangcuc/related/76633",
+            "url": "https://edge-hls.doppiocdn.live/hls/173067441/master/173067441.m3u8",
             "items": [],
             "request_headers": []
           },
           "share": {
-            "url": "http://iptv.nangcucz.link/films/nangcuc/share/toi-da-chich-con-gai-cua-chu-tiem-tam-cong-cong-mami-mashiro"
+            "url": "https://edge-hls.doppiocdn.live/hls/173067441/master/173067441.m3u8"
           },
           "sources": [
             {
-              "id": "source-76633",
+              "id": "Betty20zx",
               "name": "Source",
               "contents": [
                 {
-                  "id": "content-76633",
+                  "id": "Betty20zx",
                   "name": "Content",
                   "streams": [
                     {
-                      "id": "stream-76633",
+                      "id": "Betty20zx",
                       "name": "Stream Link",
                       "remote_data": {
-                        "url": "http://iptv.nangcucz.link/films/nangcuc/toi-da-chich-con-gai-cua-chu-tiem-tam-cong-cong-mami-mashiro",
+                        "url": "https://edge-hls.doppiocdn.live/hls/173067441/master/173067441.m3u8",
                         "encrypted": true
                       }
                     }
