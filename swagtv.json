@@ -23,8 +23,7 @@
         {
           "id": "annabellaa",
           "name": "粉紅胸的女孩🫦 - annabellaa",
-          "description": "Sau một thời gian tích góp, tôi đã khai trương một phòng gym chất lượng cho những người làm việc công sở đến tập luyện, rèn luyện thể chất từ đó có một cuộc sống chăn gối mặn nồng với bạn đời. Để cảm ơn đứa bạn đã cho vay tiền, tôi đã tặng nó một suất miễn phí trọn đời. Và câu chuyện bắt đầu từ đây... Cô bạn gái sắp cưới của nó tên Ui Suzukaze (Ui-san) đã đến đăng ký tập trong ngày tôi khai trương. Ui-san với thân hình mảnh mai, ngực tấn công, mông phòng thủ đã hớp hồn tôi ngay từ cái nhìn đầu tiên. Để cho em gái có thêm năng lượng trong những buổi tập, tôi đã lén bỏ thêm thuốc kích dục vào chai nước của Ui-san. Ui-san không những tập khoẻ hơn mà còn dập rất mạnh, khiến cho con chim tôi không ngày nào là được yên ổn...",
-          "image": {
+          "description": "Swag Live
             "type": "cover",
             "url": "https://public.swag.live/users/65f7b3fe19f2fc88aca960f9/picture.jpg?size=2048x2048&format=jpg",
             "width": 500,
@@ -71,46 +70,45 @@
           ]
         },
         {
-          "id": "76635-channel",
-          "name": "Cuối tuần trọn vẹn chỉ ăn ngủ với chịch bên em người yêu xinh đẹp Ami Tokita",
-          "description": "Một cuối tuần không ngờ tới – khi tình cảm chớm nở từ một buổi sáng đầy hoang mang…Sau buổi tiệc rượu tối thứ Sáu, em nữ sinh đại học Ami Tokita tỉnh dậy vào sáng thứ Bảy và phát hiện một người bạn nam cùng câu lạc bộ đang nằm bên cạnh mình. Ami bối rối, không rõ liệu giữa họ có điều gì xảy ra trong lúc say hay không. Khi người bạn thức dậy, thái độ thân mật bất ngờ của anh khiến Tokita càng thêm hoang mang.Không đủ cứng rắn để từ chối, cô để mọi chuyện diễn ra thêm một lần nữa – lần này là trong lúc hoàn toàn tỉnh táo. Và điều ngạc nhiên là… trải nghiệm đó không tệ, thậm chí còn khiến cô cảm thấy gần gũi hơn.Từ đó, hai người bắt đầu một “cuối tuần sống chung” đầy cảm xúc: cùng ăn, cùng ngủ, rồi lại gần gũi nhau như thể họ đã là một cặp đôi thật sự. Tokita – người từng thiếu trải nghiệm tình cảm – dần mở lòng và cảm nhận được sự ấm áp của một mối quan hệ đầy ngọt ngào và đam mê trong những ngày cuối tuần đặc biệt ấy.",
-          "image": {
-            "type": "cover",
-            "url": "https://img.nangcucz.link/nangcuc/thumbnail/2025-06-23/GhFxENs69Ek7CGTR40.png",
+          "id": "Hoa_Bimup",
+          "name": "Hoa_Bimup",
+          "description": "StripChat
+           "type": "cover",
+            "url": "https://static-cdn.strpst.com/avatars/7/a/6/7a6c160c3a9b68e9f37cad11a10635bf",
             "width": 500,
             "height": 281
           },
           "display": "text-below",
           "type": "single",
           "label": {
-            "text": "Việt sub",
+            "text": "💋 Trực Tiếp",
             "position": "top-left",
             "color": "#fea016",
             "text_color": "#ffffff"
           },
           "related": {
             "enable": true,
-            "url": "http://iptv.nangcucz.link/films/nangcuc/related/76635",
+            "url": "https://edge-hls.doppiocdn.live/hls/100647314/master/100647314.m3u8",
             "items": [],
             "request_headers": []
           },
           "share": {
-            "url": "http://iptv.nangcucz.link/films/nangcuc/share/cuoi-tuan-tron-ven-chi-an-ngu-voi-chich-ben-em-nguoi-yeu-xinh-dep-ami-tokita"
+            "url": "https://edge-hls.doppiocdn.live/hls/100647314/master/100647314.m3u8"
           },
           "sources": [
             {
-              "id": "source-76635",
+              "id": "Hoa_Bimup",
               "name": "Source",
               "contents": [
                 {
-                  "id": "content-76635",
+                  "id": "Hoa_Bimup",
                   "name": "Content",
                   "streams": [
                     {
-                      "id": "stream-76635",
+                      "id": "Hoa_Bimup",
                       "name": "Stream Link",
                       "remote_data": {
-                        "url": "http://iptv.nangcucz.link/films/nangcuc/cuoi-tuan-tron-ven-chi-an-ngu-voi-chich-ben-em-nguoi-yeu-xinh-dep-ami-tokita",
+                        "url": "https://edge-hls.doppiocdn.live/hls/100647314/master/100647314.m3u8",
                         "encrypted": true
                       }
                     }
