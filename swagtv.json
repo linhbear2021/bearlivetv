@@ -1,66 +1,66 @@
 {
-  "id": "nangcuc",
-  "name": "Nắng Cực",
-  "url": "http://iptv.nangcucz.link/provider/nangcuc",
+  "id": "swagtv",
+  "name": "SWAG TV",
+  "url": "https://raw.githubusercontent.com/linhbear2021/bearlivetv/refs/heads/main/swagtv.json",
   "color": "#000B58",
-  "description": "Nắng Cực - Phim Sex HD",
+  "description": "SWAG TV - Phim Full HD",
   "org_metadata": {
     "image": "http://iptv.nangcucz.link/images/banner.png",
-    "title": "Xem phim sex hay mới nhất - NangCucTV",
-    "description": "Nắng Cực - Phim Sex HD"
+    "title": "Xem phim hay mới nhất - SWAG TV",
+    "description": "SWAG TV - Phim Full HD"
   },
   "image": {
-    "url": "https://img.nangcuc.cc/images/logo-oq7muqxcliwv.png",
+    "url": "https://static.wixstatic.com/media/f13e0a_685d16ccf83f4eacba5e0e94a2a1a0fa~mv2.png/v1/fill/w_346,h_202,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo.png",
     "type": "cover",
     "width": 512,
     "height": 512
   },
   "groups": [
     {
-      "id": "hot-nhat",
-      "name": "🔥Phim hot",
+      "id": "live-hot",
+      "name": "🔥Live hot",
       "channels": [
         {
-          "id": "76564-channel",
-          "name": "Giới thiệu bạn gái đến tập pilates bị thằng bạn thân là chủ cơ sở chén luôn Ui Suzukaze",
+          "id": "annabellaa",
+          "name": "粉紅胸的女孩🫦 - annabellaa",
           "description": "Sau một thời gian tích góp, tôi đã khai trương một phòng gym chất lượng cho những người làm việc công sở đến tập luyện, rèn luyện thể chất từ đó có một cuộc sống chăn gối mặn nồng với bạn đời. Để cảm ơn đứa bạn đã cho vay tiền, tôi đã tặng nó một suất miễn phí trọn đời. Và câu chuyện bắt đầu từ đây... Cô bạn gái sắp cưới của nó tên Ui Suzukaze (Ui-san) đã đến đăng ký tập trong ngày tôi khai trương. Ui-san với thân hình mảnh mai, ngực tấn công, mông phòng thủ đã hớp hồn tôi ngay từ cái nhìn đầu tiên. Để cho em gái có thêm năng lượng trong những buổi tập, tôi đã lén bỏ thêm thuốc kích dục vào chai nước của Ui-san. Ui-san không những tập khoẻ hơn mà còn dập rất mạnh, khiến cho con chim tôi không ngày nào là được yên ổn...",
           "image": {
             "type": "cover",
-            "url": "https://img.nangcucz.link/nangcuc/thumbnail/2025-06-21/eOMw9eUhE57itLB6f5.png",
+            "url": "https://public.swag.live/users/65f7b3fe19f2fc88aca960f9/picture.jpg?size=2048x2048&format=jpg",
             "width": 500,
             "height": 281
           },
           "display": "text-below",
           "type": "single",
           "label": {
-            "text": "Việt sub",
+            "text": "💋 Trực Tiếp",
             "position": "top-left",
             "color": "#fea016",
             "text_color": "#ffffff"
           },
           "related": {
             "enable": true,
-            "url": "http://iptv.nangcucz.link/films/nangcuc/related/76564",
+            "url": "https://watch-bp.swag.live/default/65f7b3fe19f2fc88aca960f9.flv",
             "items": [],
             "request_headers": []
           },
           "share": {
-            "url": "http://iptv.nangcucz.link/films/nangcuc/share/gioi-thieu-ban-gai-den-tap-pilates-bi-thang-ban-than-la-chu-co-so-chen-luon-ui-suzukaze"
+            "url": "https://watch-bp.swag.live/default/65f7b3fe19f2fc88aca960f9.flv"
           },
           "sources": [
             {
-              "id": "source-76564",
+              "id": "annabellaa",
               "name": "Source",
               "contents": [
                 {
-                  "id": "content-76564",
+                  "id": "annabellaa",
                   "name": "Content",
                   "streams": [
                     {
-                      "id": "stream-76564",
+                      "id": "annabellaa",
                       "name": "Stream Link",
                       "remote_data": {
-                        "url": "http://iptv.nangcucz.link/films/nangcuc/gioi-thieu-ban-gai-den-tap-pilates-bi-thang-ban-than-la-chu-co-so-chen-luon-ui-suzukaze",
+                        "url": "https://watch-bp.swag.live/default/65f7b3fe19f2fc88aca960f9.flv",
                         "encrypted": true
                       }
                     }
