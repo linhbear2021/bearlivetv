@@ -17,59 +17,39 @@
   },
   "groups": [
     {
-      "id": "hot-nhat",
-      "name": "🔥Phim hot",
+      "id": "live-hot",
+      "name": "🔥Live hot",
       "channels": [
         {
-          "id": "16721-channel",
-          "name": "Nhịp dập thể thao cùng Bellingham giữa trận chung kết C1",
+          "id": "annabellaa",
+          "name": "粉紅胸的女孩🫦 - annabellaa",
           "description": "Dù đang phải đá trận chung kết C1 đầy căng thẳng và kịch tính trước đối thủ Dortmund nhưng nhu cầu sinh lý vẫn là thứ cần ưu tiên được giải tỏa. Sau khi kết thúc hiệp 1 trận đấu, cầu thủ mang áo số 5 của Real đã tức tốc phi về nhà để làm một cuốc tàu nhanh cùng bạn tình. Trong chuyến tàu 5 phút đầy gấp gáp của hai người, một bí mật động trời đã được tiết lộ. Cái sổ đỏ nhà Bellingham đã bị chia làm hai mảnh, một trong số đó đã bị tiền vệ trẻ của tuyển Anh dấm dúi enter vào kèo quả bóng vàng 2024. Thực hư câu chuyện này ra sao hãy cùng theo dõi nhịp dập thể thao cùng Bellingham trong giờ nghỉ giữa trận này nhé!",
           "image": {
             "type": "cover",
-            "url": "https://img.nangcucz.link/nangcuc/thumbnail/2025-03-03/kXf0PUzICo5eJVcfXE.png",
+            "url": "https://public.swag.live/users/65f7b3fe19f2fc88aca960f9/picture.jpg?size=2048x2048&format=jpg",
             "width": 500,
             "height": 281
           },
           "display": "text-below",
           "type": "single",
           "label": {
-            "text": "Việt sub",
+            "text": "💋 Trực Tiếp",
             "position": "top-left",
             "color": "#fea016",
             "text_color": "#ffffff"
           },
           "related": {
             "enable": true,
-            "url": "http://iptv.nangcucz.link/films/nangcuc/related/16721",
+            "url": "https://watch-bp.swag.live/default/65f7b3fe19f2fc88aca960f9.flv",
             "items": [],
             "request_headers": []
-          },
-          "share": {
-            "url": "http://iptv.nangcucz.link/films/nangcuc/share/nhip-dap-the-thao-cung-bellingham-giua-tran-chung-ket-c1"
-          },
-          "sources": [
-            {
-              "id": "source-16721",
-              "name": "Source",
-              "contents": [
-                {
-                  "id": "content-16721",
-                  "name": "Content",
-                  "streams": [
-                    {
-                      "id": "stream-16721",
-                      "name": "Stream Link",
-                      "remote_data": {
-                        "url": "http://iptv.nangcucz.link/films/nangcuc/nhip-dap-the-thao-cung-bellingham-giua-tran-chung-ket-c1",
-                        "encrypted": true
-                      }
+          }
                     }
                   ]
                 }
               ]
             }
           ]
-        },
         {
           "id": "16897-channel",
           "name": "3 tiếng thổi \"cơm\" cùng em Tiktoker vú bự Unpai",
