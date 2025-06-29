@@ -78,12 +78,12 @@
       }
     },
     {
-      "id": "VTV3_HD",
-      "name": "VTV3 HD",
+      "id": "VTV3",
+      "name": "VTV3",
       "image": {
         "display": "contain",
         "shape": "square",
-        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+        "url": "https://s71140.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",
         "height": 101,
         "width": 155
       },
@@ -91,28 +91,28 @@
       "display": "text-below",
       "sources": [
         {
-          "id": "vtv3-hd",
+          "id": "vtv3",
           "name": "",
           "contents": [
             {
-              "id": "vtv3-hd",
+              "id": "vtv3",
               "name": "",
               "streams": [
                 {
-                  "id": "vtv3-hd",
-                  "name": "VTV3 HD",
+                  "id": "vtv3",
+                  "name": "VTV3",
                   "image": {
                     "display": "contain",
                     "shape": "square",
-                    "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+                    "url": "https://s71140.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",
                     "height": 101,
                     "width": 155
                   },
                   "stream_links": [
                     {
-                      "id": "vtv3-hd",
-                      "name": "VTV3 HD",
-                      "url": "http://iptv.nhadai.org/stream/vtv3-hd",
+                      "id": "vtv3",
+                      "name": "VTV3",
+                      "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8",
                       "type": "hls",
                       "default": true
                     }
@@ -125,19 +125,19 @@
         }
       ],
       "share": {
-        "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
+        "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8"
       },
       "related": {
-        "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
+        "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8"
       }
     },
     {
-      "id": "VTV5_HD",
-      "name": "VTV5 HD",
+      "id": "VTV5",
+      "name": "VTV5",
       "image": {
         "display": "contain",
         "shape": "square",
-        "url": "http://iptv.nhadai.org/img/vtv5-hd.png",
+        "url": "https://s71140.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png",
         "height": 101,
         "width": 155
       },
@@ -145,28 +145,28 @@
       "display": "text-below",
       "sources": [
         {
-          "id": "vtv5-hd",
+          "id": "vtv5",
           "name": "",
           "contents": [
             {
-              "id": "vtv5-hd",
+              "id": "vtv5",
               "name": "",
               "streams": [
                 {
-                  "id": "vtv5-hd",
-                  "name": "VTV5 HD",
+                  "id": "vtv5",
+                  "name": "VTV5",
                   "image": {
                     "display": "contain",
                     "shape": "square",
-                    "url": "http://iptv.nhadai.org/img/vtv5-hd.png",
+                    "url": "https://s71140.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png",
                     "height": 101,
                     "width": 155
                   },
                   "stream_links": [
                     {
-                      "id": "vtv5-hd",
-                      "name": "VTV5 HD",
-                      "url": "http://iptv.nhadai.org/stream/vtv5-hd",
+                      "id": "vtv5",
+                      "name": "VTV5",
+                      "url": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8",
                       "type": "hls",
                       "default": true
                     }
@@ -179,10 +179,10 @@
         }
       ],
       "share": {
-        "url": "http://iptv.nhadai.org/share?q=vtv5-hd"
+        "url": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8"
       },
       "related": {
-        "url": "http://iptv.nhadai.org/related?q=vtv5-hd"
+        "url": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8"
       }
     },
     {
