@@ -470,12 +470,12 @@
           }
         },
         {
-          "id": "VTV1_HD",
-          "name": "VTV1 HD",
+          "id": "020417-367",
+          "name": "020417-367",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+            "url": "https://fchost1.imgscloud.com/b/ei/CH36441.jpg",
             "height": 101,
             "width": 155
           },
@@ -483,28 +483,28 @@
           "display": "text-below",
           "sources": [
             {
-              "id": "vtv1-hd",
+              "id": "020417-367",
               "name": "",
               "contents": [
                 {
-                  "id": "vtv1-hd",
+                  "id": "020417-367",
                   "name": "",
                   "streams": [
                     {
-                      "id": "vtv1-hd",
-                      "name": "VTV1 HD",
+                      "id": "020417-367",
+                      "name": "020417-367",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+                        "url": "https://fchost1.imgscloud.com/b/ei/CH36441.jpg",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
-                          "id": "vtv1-hd",
-                          "name": "VTV1 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+                          "id": "020417-367",
+                          "name": "020417-367",
+                          "url": "https://fc.maa1801.com/m/gfcxlkekjk/gfcxlkekjk.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -517,10 +517,10 @@
             }
           ],
           "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
+            "url": "https://fc.maa1801.com/m/gfcxlkekjk/gfcxlkekjk.m3u8"
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
+            "url": "https://fc.maa1801.com/m/gfcxlkekjk/gfcxlkekjk.m3u8"
           }
         },
         {
