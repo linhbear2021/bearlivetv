@@ -148,22 +148,6 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w2134133001_b3
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png", HN2 | Hà Nội 2
 #https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w385043217_b3128000_slen.m3u8
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1576773412.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pXM42MF/drt1-BEARTV.png", DNRT1 | Đà Nẵng 1
-https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2gfYpRQ/drt2-BEARTV.png", DNRT2 | Đà Nẵng 2
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv1.png", BPTV1 | TH Bình Phước
-https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="ninhbinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png", NTV | TH Ninh Bình
-https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png", ĐNRTV1 | TH Đồng Nai
-http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w846180151_b1384000.m3u8
-#EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thdt.vn/images/img_dt1.png", THĐT1 | TH Đồng Tháp
-https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
-#EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w172990947.m3u8
-#EXTINF:-1 tvg-id="hungyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wWQtTwr/HUNGYEN-BEARTV.png", HY | TH Hưng Yên
-https://1253218859.e.cdneverest.net/7xFB3S8AIKRL8w3Z6s25IQ/1751378328/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/H7YrC5h/caobang-BEARTV.png", CRTV | TH Cao Bằng
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_w1515938959_b1384000.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png", BTV | TH Bắc Ninh
@@ -174,16 +158,32 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png", QTV3 | TH Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="hungyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wWQtTwr/HUNGYEN-BEARTV.png", HY | TH Hưng Yên
+https://1253218859.e.cdneverest.net/7xFB3S8AIKRL8w3Z6s25IQ/1751378328/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/kGGqYXp/Phu-Tho-BEARTV.png", PTV | TH Phú Thọ
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png", NTV | TH Ninh Bình
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png", TTV | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png", NTV | TH Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/99wk3g4J/hatinhtv-new-BEARTV.png", BHT | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w237296675.m3u8
+#EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pXM42MF/drt1-BEARTV.png", DNRT1 | Đà Nẵng 1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+#EXTINF:-1 tvg-id="danang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2gfYpRQ/drt2-BEARTV.png", DNRT2 | Đà Nẵng 2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="lamdong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/YcBXy9Y/LAMDONG-BEARTV.png", LTV | TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w685356133_b1384000.m3u8
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv1.png", BPTV1 | TH Bình Phước
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png", ĐNRTV1 | TH Đồng Nai
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w846180151_b1384000.m3u8
+#EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thdt.vn/images/img_dt1.png", THĐT1 | TH Đồng Tháp
+https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
+#EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w172990947.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT | TH Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist_w489075496.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
