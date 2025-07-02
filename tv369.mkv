@@ -100,6 +100,10 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",PHIM ÂU MỸ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="185.HiTV" group-title="TV360" tvg-logo="https://i.ibb.co/mJTHzJd/hanoicab1-BEARTV.png",HiTV
+https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="31.YouTV" group-title="TV360" tvg-logo="https://i.ibb.co/4KqWTLc/hanoicab2-BEARTV.png",YouTV
+https://xem.TruyenHinh.Click/CoBan/31.YouTV/TuyetDoiKhongKinhDoanh.m3u8
 
 
 
@@ -229,10 +233,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhk" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/sKzSyC8/NHKW-BEARTV.png", NHK World
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/rxnFLHY/Arirang-BEARTV.png", Arirang
-https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/GQFqgWR/MBCKR-BEARTV.png",MBC
-https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w330852783.m3u8
+
 
 
 
