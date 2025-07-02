@@ -158,6 +158,8 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png", QTV3 | TH Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="haiphong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png", THP | TH Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wWQtTwr/HUNGYEN-BEARTV.png", HY | TH Hưng Yên
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/kGGqYXp/Phu-Tho-BEARTV.png", PTV | TH Phú Thọ
@@ -190,6 +192,8 @@ https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w172990947.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT | TH Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist_w489075496.m3u8
+#EXTINF:-1 tvg-id="tayninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png", TTV11 | TH Tây Ninh
+https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
@@ -229,10 +233,7 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/GQFqgWR/MBCKR-BEARTV.png",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w330852783.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png",RHM HDTV
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png",HM HDTV
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+
 
 
 
