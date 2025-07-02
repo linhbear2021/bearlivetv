@@ -168,7 +168,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png", NTV | TH Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
-#EXTINF:-1 tvg-id="hatinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/99wk3g4J/hatinhtv-new-BEARTV.png", BHT | TH Hà Tĩnh
+#EXTINF:-1 tvg-id="hatinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3mS0p3kV/hatinh-new-BEARTV.png", BHT | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w237296675.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/W4tmgVXc/danang1-new-BEARTV.png", DNRT1 | Đà Nẵng 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
@@ -184,7 +184,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w685356133_b1384000.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w846180151_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png", ĐNRTV2 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w846180151_b1384000.m3u8
-#EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thdt.vn/images/img_dt1.png", THĐT1 | TH Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Tx9VZsKp/dongthap1-new-BEARTV.png", THĐT1 | TH Đồng Tháp
 https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w172990947.m3u8
