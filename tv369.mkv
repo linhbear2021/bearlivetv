@@ -191,12 +191,12 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png", ĐNRTV2 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Tx9VZsKp/dongthap1-new-BEARTV.png", THĐT1 | TH Đồng Tháp
-https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1028972109.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w172990947.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT | TH Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist_w489075496.m3u8
-#EXTINF:-1 tvg-id="tayninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png", TTV11 | TH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png", TTV2 | TH Tây Ninh
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
