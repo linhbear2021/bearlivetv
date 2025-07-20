@@ -94,8 +94,8 @@ https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png" ,TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="catoon" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/TV360_Mekong.png/revision/latest?cb=20250401154728&path-prefix=vi",MEKONG TV
-https://xem.TruyenHinh.Click/CoBan/cartoon/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="anvien" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/An_Vi%C3%AAn_TV_2020.png/revision/latest?cb=20240309071439&path-prefix=vi",BTV9 - An Viên TV
+https://xem.TruyenHinh.Click/CoBan/an-vien-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="warner" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",PHIM ÂU MỸ
 https://xem.TruyenHinh.Click/CoBan/warner-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="TV360" tvg-logo="https://i.ibb.co/mJTHzJd/hanoicab1-BEARTV.png",HiTV
