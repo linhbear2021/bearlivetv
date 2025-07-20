@@ -89,10 +89,13 @@ https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest?cb=20201119113949&path-prefix=vi",SCTV 1
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1 tvg-id="sctv2hd" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/02/26/22/1740582677991/5a4a9bb5a63c_640_360.png" ,SCTV 2 - TODAY TV
+#EXTINF:-1 tvg-id="sctv2hd" group-title="TV360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SCTV2_logo_2021.png/1200px-SCTV2_logo_2021.png" ,SCTV 2 - TODAY TV
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/SCTV6_logo_08-02-2021.png/revision/latest/scale-to-width-down/200?cb=20230715023503&path-prefix=vi",SCTV 6 - FIM360
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo.png/revision/latest?cb=20220223140705&path-prefix=vi",SCTV PHIM TỔNG HỢP
+https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png" ,TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/An_Vi%C3%AAn_TV_2020.png/revision/latest?cb=20240309071439&path-prefix=vi",BTV9 - An Viên TV
@@ -228,8 +231,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png", Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhk" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/sKzSyC8/NHKW-BEARTV.png", NHK World
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+
 
 
 
