@@ -88,14 +88,14 @@ https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest?cb=20201119113949&path-prefix=vi",SCTV 1
-https://liveh12.seenow.vn/hls/SCTV1/01.m3u8
+https://liveh12.seenow.vn/hls/SCTV1/02.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="TV360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SCTV2_logo_2021.png/1200px-SCTV2_logo_2021.png" ,SCTV 2 - TODAY TV
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi",SCTV 3
+#EXTINF:-1 tvg-id="sctv3hd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi",SCTV 3
 https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/SCTV6_logo_08-02-2021.png/revision/latest/scale-to-width-down/200?cb=20230715023503&path-prefix=vi",SCTV 6 - FIM360
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv14" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest?cb=20210820042328&path-prefix=vi",SCTV 14
+#EXTINF:-1 tvg-id="sctv14" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest?cb=20210820042328&path-prefix=vi",SCTV 14
 https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo.png/revision/latest?cb=20220223140705&path-prefix=vi",SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
