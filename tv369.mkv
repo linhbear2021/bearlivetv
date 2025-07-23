@@ -198,8 +198,12 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1028972109.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w172990947.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT | TH Cần Thơ
+#EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thst.vn/Content/images/ct1.png", THTPCT | TH Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist_w489075496.m3u8
+#EXTINF:-1 tvg-id="soctrang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thst.vn/Content/images/ct3.png",THTPCT 3 | TH Cần Thơ
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:-1 tvg-id="longan" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/TTV1_TayNinhTV.png/revision/latest/scale-to-width-down/1536?cb=20250704141446&path-prefix=vi",  TTV1 | TH Tây Ninh
+https://live.la34.com.vn/la34/tv-transmux.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/TTV2_TayNinhTV.png/revision/latest/scale-to-width-down/1536?cb=20250704141248&path-prefix=vi", TTV2 | TH Tây Ninh
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
@@ -225,12 +229,6 @@ https://xem.TruyenHinh.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",HOLLYWOOD CLASSICS
 https://xem.TruyenHinh.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://sgchill.io.vn/360/160/index.m3u8
-
-
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png", Outdoor Channel
-https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Q8NX9GC/kix-BEARTV.png",KIX
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
