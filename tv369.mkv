@@ -200,8 +200,8 @@ https://live.fptplay53.net/epzsd1/haugiang_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="angiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/07/atv2.png",ATV2 | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="kiengiang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",ATV3 | TH An Giang
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8|Referer=https://angiangtv.vn/jwplayer/?i=https://angiangtv.vn/wp-content/uploads/2025/06/H3.png&l=rtmp
+#EXTINF:0 tvg-id="gialai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_640_360.png",GTV | TH Gia Lai
+https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/TTV1_TayNinhTV.png/revision/latest/scale-to-width-down/1536?cb=20250704141446&path-prefix=vi",  TTV1 | TH Tây Ninh
 https://live.la34.com.vn/la34/tv-transmux.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/TTV2_TayNinhTV.png/revision/latest/scale-to-width-down/1536?cb=20250704141248&path-prefix=vi", TTV2 | TH Tây Ninh
@@ -233,6 +233,7 @@ https://nextx.live/360/239/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",HOLLYWOOD CLASSICS
 #https://xem.TruyenHinh.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/160/index.m3u8
+
 
 
 
