@@ -98,6 +98,8 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo.png/revision/latest?cb=20220223140705&path-prefix=vi",SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1755319941/IhEhy-Sj0XZQdXBRRHocra7F6Cw/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/logo-sctv4k_e0a24400.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", SCTV 4K
+https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png" ,HTV1
@@ -194,8 +196,6 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1960850120.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thst.vn/Content/images/ct1.png", THTPCT1 | TH Cần Thơ
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thst.vn/Content/images/ct1.png", THTPCT2 | TH Cần Thơ
 https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thst.vn/Content/images/ct2.png" , THTPCT3 | TH Cần Thơ
@@ -235,6 +235,7 @@ https://nextx.live/360/239/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",HOLLYWOOD CLASSICS
 #https://xem.TruyenHinh.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/160/index.m3u8
+
 
 
 
