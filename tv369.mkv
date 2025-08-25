@@ -168,8 +168,6 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1576773412.m3u8
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/35zdB2yY/caobang-new-BEARTV.png", CRTV | TH Cao Bằng
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist_w1515938959_b1384000.m3u8
-#EXTINF:-1 tvg-id="bacninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fq39yy6K/bacninh-new-BEARTV.png", BTV | TH Bắc Ninh
-https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/TBYBrq0X/thainguyentv-new-BEARTV.png", TN | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="quangninh1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu1.png", QTV1 | TH Quảng Ninh
@@ -217,14 +215,15 @@ https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="gialai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_640_360.png",GTV | TH Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="longan" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/TTV1_TayNinhTV.png/revision/latest/scale-to-width-down/1536?cb=20250704141446&path-prefix=vi",  TTV1 | TH Tây Ninh
-https://live.la34.com.vn/la34/tv-transmux.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/An_Vi%C3%AAn_TV_2020.png/revision/latest?cb=20240309071439&path-prefix=vi",BTV9 - An Viên TV
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="FPT SPORTS" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT Thể Thao 1
+https://live.fptplay53.net/epzch1/thethao122_25s.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="FPT SPORTS" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT Thể Thao 2
+https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
@@ -233,17 +232,18 @@ http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTINF:-1 tvg-id="axnhd"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png",AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
-https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
-#https://nextx.live/360/159/index.m3u8
+#https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://nextx.live/360/159/index.m3u8
 #EXTINF:0 tvg-id="inthebox"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png",IN THE BOX
-https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
-#https://nextx.live/360/235/index.m3u8
+#https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+https://nextx.live/360/235/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
-https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
-#https://nextx.live/360/239/index.m3u8
+#https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+https://nextx.live/360/239/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",HOLLYWOOD CLASSICS
-https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
-#https://nextx.live/360/160/index.m3u8
+#https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://nextx.live/360/160/index.m3u8
+
 
 
 
