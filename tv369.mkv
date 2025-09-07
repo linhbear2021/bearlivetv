@@ -163,8 +163,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w2134133001_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
-#https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w385043217_b3128000_slen.m3u8
-https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1576773412.m3u8
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w331392700.m3u8
 #EXTINF:0 tvg-id="laocai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest?cb=20211224040641&path-prefix=vi",THLC | TH Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/35zdB2yY/caobang-new-BEARTV.png", CRTV | TH Cao Bằng
@@ -207,7 +206,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png", ĐNRTV2 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Tx9VZsKp/dongthap1-new-BEARTV.png", THĐT1 | TH Đồng Tháp
-https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w725453559.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1960850120.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://thst.vn/Content/images/ct1.png", THTPCT2 | TH Cần Thơ
@@ -244,6 +243,7 @@ https://nextx.live/360/239/index.m3u8
 https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykidshd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
