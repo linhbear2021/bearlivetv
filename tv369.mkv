@@ -31,8 +31,7 @@ https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png", VIETNAM TODAY
-https://vtvgolive-ssaimh.vtvdigital.vn/_8F6glm6XqnxHFh3Zu6o6Q/1757232779/manifest/vietnamtoday/playlist-pre_1080p.m3u8
+
 
 
 #EXTINF:-1 tvg-id="onviegiaitri"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
@@ -101,7 +100,8 @@ https://xem.hoiquan.Click/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVCab" tvg-logo="https://i.ibb.co/Bc8cL7w/onsportplus3-BEARTV.png",ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
+#https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
+https://vtvgolive-ssaimh.vtvdigital.vn/_8F6glm6XqnxHFh3Zu6o6Q/1757232779/manifest/vietnamtoday/playlist-pre_1080p.m3u8
 
 
 
@@ -245,6 +245,7 @@ https://nextx.live/360/239/index.m3u8
 https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykidshd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
