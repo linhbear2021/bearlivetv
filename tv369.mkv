@@ -32,9 +32,12 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/Vietnam_Today.png/revision/latest/scale-to-width-down/732?cb=20250813040747&path-prefix=vi",VIETNAM TODAY
+#https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
+https://nextx.live/360/9951/index.m3u8
 
 
-#EXTINF:-1 tvg-id="onviegiaitri"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
+#EXTINF:-1 tvg-id="onviegiaitrSporSportsi"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
 #https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
 #http://14.248.224.108:8889/Vieon.php?id=vtvcab1
 https://nextx.live/360/180/index.m3u8
@@ -97,10 +100,6 @@ https://xem.hoiquan.Click/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTVCab" tvg-logo="https://i.ibb.co/Bc8cL7w/onsportplus3-BEARTV.png",ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
-https://nextx.live/360/9951/index.m3u8
 
 
 
@@ -244,6 +243,7 @@ https://nextx.live/360/239/index.m3u8
 https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
