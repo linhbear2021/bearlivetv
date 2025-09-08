@@ -32,7 +32,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/Vietnam_Today.png/revision/latest/scale-to-width-down/732?cb=20250813040747&path-prefix=vi",VIETNAM TODAY
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",VIETNAM TODAY
 #https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
 https://nextx.live/360/9951/index.m3u8
 
@@ -243,6 +243,7 @@ https://nextx.live/360/239/index.m3u8
 https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
