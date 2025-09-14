@@ -202,7 +202,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w725453559.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1960850120.m3u8
-#EXTINF:-1 tvg-id="haugiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png", THTPCT1 | TH Cần Thơ
+#EXTINF:-1 tvg-id="cantho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png", THTPCT1 | TH Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist_w1206566478.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png", THTPCT2 | TH Cần Thơ
 https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
@@ -240,6 +240,7 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
