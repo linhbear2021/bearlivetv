@@ -96,7 +96,7 @@ https://nextx.live/360/169/index.m3u8
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SCTV2_logo_2021.png/1200px-SCTV2_logo_2021.png" ,SCTV 2 - TODAY TV
 https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi",SCTV 3
+#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi",SCTV3 HD
 https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/SCTV6_logo_08-02-2021.png/revision/latest/scale-to-width-down/200?cb=20230715023503&path-prefix=vi",SCTV 6 - FIM360
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -237,6 +237,7 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
