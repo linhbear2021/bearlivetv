@@ -31,14 +31,9 @@ https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",VIETNAM TODAY
 #https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20231208053314&path-prefix=vi",K+ KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/kkidshd/ToChaThangVThanh
 
 
 #EXTINF:-1 tvg-id="onviegiaitrSporSportsi"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
@@ -210,6 +205,8 @@ https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 https://live.canthotv.vn/live/cs3/chunklist_w1029809502.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751358809467/9f6c4f3dc4d0_480_270.png",ATV1 | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="angiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/ATV2_logo.png/revision/latest/scale-to-width-down/800?cb=20250708151238&path-prefix=vi",ATV2 | TH An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="gialai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_640_360.png",GTV | TH Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
@@ -240,12 +237,6 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
-
-
-
-
-
-
 
 
 
