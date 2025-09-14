@@ -200,7 +200,7 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/R4Z4Nmdy/quangtri-new-BEARTV.png", QTTV | TH Quảng Trị
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="lamdong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/YcBXy9Y/LAMDONG-BEARTV.png", LTV1 | TH Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256120115/c017eaaebba8_480_270.png", LTV1 | TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w685356133_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png", ĐNRTV1 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
@@ -244,6 +244,7 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
