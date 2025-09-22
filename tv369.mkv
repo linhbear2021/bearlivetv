@@ -104,7 +104,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo.png/revision/latest?cb=20220223140705&path-prefix=vi",SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1755319941/IhEhy-Sj0XZQdXBRRHocra7F6Cw/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/logo-sctv4k_e0a24400.jpg?width=384&version=10&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", SCTV 4K
+#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SCTV_logo_%28Vietnam%29.svg/1200px-SCTV_logo_%28Vietnam%29.svg.png", SCTV 4K
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 
@@ -237,6 +237,7 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
