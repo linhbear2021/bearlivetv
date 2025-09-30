@@ -160,7 +160,9 @@ https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png", THP | TH Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="haiduong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_640_360.png", THP3 | TH Hải Phòng
+#EXTINF:-1 tvg-id="haiphongplus" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/b4/47/7b/b1/1e/e8/b47b1-pthp-channel-unkn.png",THP+ | TH Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="haiphong3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_640_360.png", THP3 | TH Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wWQtTwr/HUNGYEN-BEARTV.png", HY | TH Hưng Yên
 #https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
@@ -211,8 +213,7 @@ https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
-#EXTINF:-1 tvg-id="tv360-plus-2" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/TV360%2B2.png/revision/latest/scale-to-width-down/180?cb=20240528053925&path-prefix=vi",TV360+ 2
-https://nextx.live/360/1/index.m3u8
+
 #EXTINF:-1 tvg-id="tv360-plus-3" group-title="TV360" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/TV360%2B3.png/revision/latest/scale-to-width-down/358?cb=20240528053951&path-prefix=vi",TV360+ 3
 https://nextx.live/360/148/index.m3u8
 
@@ -236,6 +237,7 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
