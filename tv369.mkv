@@ -87,6 +87,8 @@ https://nextx.live/360/169/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://media.vietteltelecom.vn/upload/ckfinder/images/Bai%20logo%203%20-%20bai%20viet%20(2).png", TV360
+https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
 
 
 
@@ -144,8 +146,6 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png", THVL4 | Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/THVL5_logo.png/revision/latest/scale-to-width-down/1200?cb=20250808132411", THVL5 | Vĩnh Long 5 test
-https://nextx.live/360/9887/index.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w2134133001_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
@@ -238,6 +238,7 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
