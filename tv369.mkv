@@ -87,10 +87,6 @@ https://nextx.live/360/169/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://cupchienthang.vn/wp-content/uploads/2015/11/tv360.png", TV360
-https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-
-
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest?cb=20201119113949&path-prefix=vi",SCTV 1
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
@@ -215,7 +211,18 @@ https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
-
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 1
+https://live.fptplay53.net/epzch1/thethao121_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 2
+https://live.fptplay53.net/epzch1/thethao122_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 3
+https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 4
+https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 5
+https://live.fptplay53.net/fnxch1/thethao139_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 6
+https://live.fptplay53.net/fnxch1/thethao262_25s.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
@@ -238,6 +245,7 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
