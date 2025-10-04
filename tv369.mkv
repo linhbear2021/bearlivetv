@@ -142,6 +142,8 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png", THVL4 | Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/09/05/vinh-long-5_270-15905-09-2025_11g23-27.png", THVL5 | Vĩnh Long 5
+https://live.fptplay53.net/epzsd1/vinhlong22_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w2134133001_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
@@ -259,6 +261,7 @@ https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxch1/thethao139_25s.smil/chunklist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 6
 https://live.fptplay53.net/fnxch1/thethao262_25s.smil/chunklist.m3u8
+
 
 
 
