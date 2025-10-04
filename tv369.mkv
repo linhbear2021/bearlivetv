@@ -213,18 +213,7 @@ https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 1
-https://live.fptplay53.net/epzch1/thethao121_25s.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 2
-https://live.fptplay53.net/epzch1/thethao122_25s.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 3
-https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 4
-https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 5
-https://live.fptplay53.net/fnxch1/thethao139_25s.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 6
-https://live.fptplay53.net/fnxch1/thethao262_25s.smil/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
@@ -247,10 +236,29 @@ https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",HAPPY KIDS
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg", Kix
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="davinci" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" group-title="Quốc Tế",Da Vinci
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="outdoorhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg" group-title="Quốc Tế",Outdoor Channel
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế",Asian Food Network
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 1
+https://live.fptplay53.net/epzch1/thethao121_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 2
+https://live.fptplay53.net/epzch1/thethao122_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 3
+https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 4
+https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 5
+https://live.fptplay53.net/fnxch1/thethao139_25s.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 6
+https://live.fptplay53.net/fnxch1/thethao262_25s.smil/chunklist.m3u8
 
 
 
