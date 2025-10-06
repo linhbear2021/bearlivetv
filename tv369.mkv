@@ -229,7 +229,7 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",HBO
-http://113.172.29.170:10101/rtp/232.84.1.122:10314
+https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd
 #EXTINF:-1 tvg-id="warnertvhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/S3t95wQ/WBTV-BEARTV.png",WARNER TV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTINF:-1 tvg-id="axnhd"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png",AXN
@@ -256,6 +256,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
