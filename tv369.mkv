@@ -96,6 +96,8 @@ https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
 https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/SCTV6_logo_08-02-2021.png/revision/latest/scale-to-width-down/200?cb=20230715023503&path-prefix=vi",SCTV 6 - FIM360
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest?cb=20210820042328&path-prefix=vi",SCTV 14
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo.png/revision/latest?cb=20220223140705&path-prefix=vi",SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SCTV_logo_%28Vietnam%29.svg/1200px-SCTV_logo_%28Vietnam%29.svg.png", SCTV 4K
@@ -258,7 +260,8 @@ https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 4
 https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 5
-https://live.fptplay53.net/fnxch1/thethao139_25s.smil/chunklist.m3u8
+
+
 
 
 
