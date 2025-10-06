@@ -162,6 +162,8 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png", QTV3 | TH Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="bacninh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.vtvprime.vn/QCNFqXqGNuxjGTLoNvIfE4SP6gYHlPp0hBVgZxWYP6U/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWM1MzFjMzgtOTFiNS00MmViLTg5MDEtNWViZmQzNGQyY2Q0LnBuZw==.png", BTV | TH Bắc Ninh
+https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png", THP | TH Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/b4/47/7b/b1/1e/e8/b47b1-pthp-channel-unkn.png",THP+ | TH Hải Phòng
@@ -257,8 +259,8 @@ https://live.fptplay53.net/epzch1/thethao121_25s.smil/chunklist.m3u8
 https://live.fptplay53.net/epzch1/thethao122_25s.smil/chunklist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 3
 https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 4
-https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist.m3u8
+
+
 
 
 
