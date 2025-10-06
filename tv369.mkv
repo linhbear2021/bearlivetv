@@ -90,6 +90,8 @@ https://nextx.live/360/169/index.m3u8
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/SCTV2_logo_2021.png/1200px-SCTV2_logo_2021.png" ,SCTV 2 - TODAY TV
 https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi", SCTV 3
+https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/SCTV4.png/revision/latest?cb=20240116011558&path-prefix=vi",SCTV4
 https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/SCTV6_logo_08-02-2021.png/revision/latest/scale-to-width-down/200?cb=20230715023503&path-prefix=vi",SCTV 6 - FIM360
@@ -257,8 +259,8 @@ https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 5
 https://live.fptplay53.net/fnxch1/thethao139_25s.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png", FPT Thể Thao 6
-https://live.fptplay53.net/fnxch1/thethao262_25s.smil/chunklist.m3u8
+
+
 
 
 
