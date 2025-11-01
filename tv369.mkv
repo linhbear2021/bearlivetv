@@ -102,8 +102,12 @@ https://liveh34.vtvprime.vn/hls/SCTV11/01.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/Hr1euLmLVypl_nHZQ6xNme8bt-5nDwU24prbiWnCESI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWJkY2M3MGUtY2VjMy00NWE4LTg5M2MtMWI2NDViZGY4MmM3LnBuZw==.png",SCTV 14
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/HF8Odbai0ixX4FPA8KqCaLs1VOA4ohXFeEchMnmZC1Q/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjQxNTVkMjctY2Y1ZC00ZjgyLTlmNTktNzMwMTQ5M2ZjOGIyLnBuZw==.png",SCTV 16
+https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/lwCZ6Ou47DmElCmpM04jou1kewLPYbkxxBdB_OUy1PI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWRlNmQyYWQtODY1ZC00MzlmLWEyYzUtNDIwYjI5ZWU4Nzk1LnBuZw==.png",SCTV 18
 https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/LZ6QkVPVXxYB1nxVu9iV-GIeWfPWSA9bzB6e6ngx6kM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWZkNjJhZjgtZDcyNS00ZGMwLTlmODEtZjRjZTE2MzM1MjZkLnBuZw==.png",SCTV 22 - SSPORT 1
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/cf-cQKJDbIW9958UPPY8xOI8hO8vX_DZFbSv5-4jE1E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png",SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SCTV_logo_%28Vietnam%29.svg/1200px-SCTV_logo_%28Vietnam%29.svg.png", SCTV 4K
@@ -242,13 +246,9 @@ https://nextx.live/360/160/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.vtvprime.vn/Pjc_2nEJpEWCTpuGHAJemkiz9CxuSClFs0lvJZnoQYg/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjBjNDk5NzAtOWNkZi00YmFjLWFkYWQtNmJmNGE5ZGYxZjdhLnBuZw==.png",HAPPY KIDS
 #https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/212/index.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/History_TV_2022.png/revision/latest?cb=20240404091511&path-prefix=vi",HISTORY
-https://nextx.live/360/9856/index.m3u8
+
 #EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Planet_Earth.png/revision/latest/scale-to-width-down/1200?cb=20241104093929",Planet Earth
 https://nextx.live/360/135/index.m3u8
-#EXTINF:-1 tvg-id="axnhd"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png",AXN
-#http://125hvt.ddns.net:21585/axn/index.m3u8
-https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w594862546.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/330px-KIX_logo.svg.png", Kix
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.vtvprime.vn/TeTHUc87TdJDiDarxVy_9Xyat93J4P-Eau7hVIrJ5CI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWNmOTM5YjMtOGFlZS00ZDg5LTk1N2ItOTQxNmQ2MzNjNDU1LnBuZw==.png" group-title="Quốc Tế",Da Vinci
@@ -257,6 +257,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
