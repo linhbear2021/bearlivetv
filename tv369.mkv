@@ -36,8 +36,8 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="onviegiaitrSporSportsi"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
-#https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
-https://nextx.live/360/180/index.m3u8
+#https://nextx.live/360/180/index.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=180&token=2025
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png", ON Phim Việt
 #https://xem.hoiquan.Click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/175/index.m3u8
@@ -69,7 +69,7 @@ https://nextx.live/360/185/index.m3u8
 #https://xem.hoiquan.Click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/186/index.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVCab" tvg-logo="https://i.ibb.co/kJVhzbt/onviedrama-BEARTV.png",ON Vie DRAMAS
-https://nextx.live/360/177/index.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=177&token=2025
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVCab" tvg-logo="https://i.ibb.co/3ythBWMz/onvfaDRAMASDRAMASmilynew-BEARTV.png",ON V FAMILY
 #https://xem.hoiquan.Click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/187/index.m3u8
@@ -257,6 +257,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
