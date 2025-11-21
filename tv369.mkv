@@ -1,4 +1,4 @@
-Please#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 
 #EXTM3U BEARTV - tv369 tv.nextx.live
 
@@ -52,7 +52,8 @@ https://nextx.live/360/182/index.m3u8
 https://nextx.live/360/136/index.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVCab" tvg-logo="https://i.ibb.co/t4PV17Q/ONBibi-BEARTV.png",ON BIBI
 #https://xem.hoiquan.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
-https://nextx.live/360/178/index.m3u8
+#https://nextx.live/360/178/index.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=178&token=2025
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVCab" tvg-logo="https://i.ibb.co/1X6NMjT/info-BEARTV.png" , ON INFO TV
 #https://xem.hoiquan.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/189/index.m3u8
@@ -75,7 +76,8 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=177&token=202
 https://nextx.live/360/187/index.m3u8
 #EXTINF:0 tvg-id="onkids" group-title="VTVCab" tvg-logo="https://i.ibb.co/zbmJhcy/ON-Kids-BEARTV.png",ON Kids
 #https://xem.TruyenHinh.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
-https://nextx.live/360/179/index.m3u8
+#https://nextx.live/360/179/index.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=179&token=2025
 #EXTINF:-1 tvg-id="onlife" group-title="VTVCab" tvg-logo="https://i.ibb.co/ZcDFKMq/ONLife-BEARTV.png", On Life
 #https://xem.hoiquan.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://nextx.live/360/188/index.m3u8
@@ -257,6 +259,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
