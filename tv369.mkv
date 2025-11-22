@@ -40,7 +40,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=180&token=2025
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png", ON Phim Việt
 #https://nextx.live/360/175/index.m3u8
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=157&token=2025
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=175&token=2025
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVCab" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png" ,ON MOVIES
 #https://nextx.live/360/181/index.m3u8
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=181&token=2025
@@ -258,6 +258,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
