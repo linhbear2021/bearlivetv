@@ -210,7 +210,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png", ĐNRTV2 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Tx9VZsKp/dongthap1-new-BEARTV.png", THĐT1 | TH Đồng Tháp
-https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w725453559.m3u8
+https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7xv65CNF/Dong-thap-2-new-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1960850120.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12982.cdn.mytvnet.vn/vimages/88/87/79/93/30/09/88793-pcnthtv1-channel-unkn.png", CẦN THƠ 1 | TH Cần Thơ
@@ -258,6 +258,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
