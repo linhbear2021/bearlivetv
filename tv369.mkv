@@ -55,19 +55,19 @@ https://toiyeuvietnam.dpdns.org/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVCab" tvg-logo="https://i.ibb.co/1X6NMjT/info-BEARTV.png" , ON INFO TV
 #https://nextx.live/360/189/index.m3u8
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=189&token=BLjOIlaKSsUaZvtX
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVCab" tvg-logo="https://i.ibb.co/v4X3VqN/cab10-filmtv-BEARTV.png",ON CINE
 #https://nextx.live/360/176/index.m3u8
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=176&token=BLjOIlaKSsUaZvtX
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVCab" tvg-logo="https://i.ibb.co/Qjckpv4/styletv-BEARTV.png" ,ON STYLE TV
 #https://nextx.live/360/184/index.m3u8
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=184&token=BLjOIlaKSsUaZvtX
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVCab" tvg-logo="https://i.ibb.co/L8RBHbv/ONMusic-BEARTV.png" ,ON MUSIC
 #https://nextx.live/360/185/index.m3u8
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=185&token=BLjOIlaKSsUaZvtX
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVCab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png" ,ON TRENDING TV
 #https://nextx.live/360/186/index.m3u8
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=186&token=BLjOIlaKSsUaZvtX
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVCab" tvg-logo="https://i.ibb.co/kJVhzbt/onviedrama-BEARTV.png",ON Vie DRAMAS
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVCab" tvg-logo="https://i.ibb.co/3ythBWMz/onvfaDRAMASDRAMASmilynew-BEARTV.png",ON V FAMILY
@@ -258,6 +258,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
