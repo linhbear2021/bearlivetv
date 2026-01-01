@@ -125,8 +125,7 @@ https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/cf-cQKJDbIW9958UPPY8xOI8hO8vX_DZFbSv5-4jE1E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png",SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/h2-u7XeILuDYmh1cplcbQxXkff8srFnKn5UK79BEVKU/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTQwZWMzNTAtNTgyNC00ZTYxLTk2NTYtZjc3YzBhZGU1MjgxLnBuZw==.png", Trọn Vẹn SEA Games 33
-https://liveh34.vtvprime.vn/hls/SEAGAME/01.m3u8
+
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png" ,HTV1
@@ -245,7 +244,8 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/HBO_white.png/revision/latest?cb=20220417041358&path-prefix=vi", HBO
+http://akasaijr.myftp.org:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.vtvprime.vn/osNJFBQ8y3md3MUWB7-Zr0zkk6HMvffHsZ3tZGsw-p8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDFjMjZjMjktZjA0Ni00YTYxLTljODEtYjQ2YWE3YmU3YmZiLnBuZw==.png ,BOX MOVIE 1
 #https://nextx.live/360/159/index.m3u8
 https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
@@ -272,6 +272,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
