@@ -211,7 +211,7 @@ https://wse.hatinhtv.net/live/httv1/chunklist_w237296675.m3u8
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0RLLYx77/danang2-new-BEARTV.png", DNRT2 | Đà Nẵng 2
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangngai"group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0R6ZL7FQ/quangngai-new-BEARTV.png", QNG | TH Quảng Ngãi
+#EXTINF:-1 tvg-id="quangngai"group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/67/QNGTV_logo2026.webp/250px-QNGTV_logo2026.webp.png", QNG | TH Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/R4Z4Nmdy/quangtri-new-BEARTV.png", QTTV | TH Quảng Trị
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
@@ -272,6 +272,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
