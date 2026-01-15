@@ -266,12 +266,14 @@ https://toiyeuvietnam.dpdns.org/Start/VMT567_HappyKid
 http://akasaijr.myftp.org:21585/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/330px-KIX_logo.svg.png", Kix
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.vtvprime.vn/TeTHUc87TdJDiDarxVy_9Xyat93J4P-Eau7hVIrJ5CI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWNmOTM5YjMtOGFlZS00ZDg5LTk1N2ItOTQxNmQ2MzNjNDU1LnBuZw==.png" group-title="Quốc Tế",Da Vinci
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/120px-AXN_logo_%282015%29.svg.png" group-title="Quốc Tế",AXN
+#https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+http://akasaijr.myftp.org:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img.vtvprime.vn/Hc9kuCTrQXumIfDEyzqp6qt19QBBTPbLlruig6F7LfE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGQxODYyZjYtYTM2NS00NGNmLWFjZmUtOTllN2ZmYTliYzMwLnBuZw==.png" group-title="Quốc Tế",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
