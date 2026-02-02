@@ -190,11 +190,8 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png", THP | TH Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="haiphongplus" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/b4/47/7b/b1/1e/e8/b47b1-pthp-channel-unkn.png",THP+ | TH Hải Phòng
-https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiphong3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_640_360.png", THP3 | TH Hải Phòng
-https://live.fptplay53.net/fnxsd1/haiphong03_hls.smil/chunklist_b2500000.m3u8
-https://vips-livecdn.fptplay.net/MTM3ODAzfGhhaXBob25ncGx1c19obHMuc21pbHx2aWV0dGVsfDE3NzAwMTU3MTN8MTcxLjIzOC4xMTAuMTM2fDM4MzUwMTNjOTRkMGJmODg4ODhhZTQxOGRjNGM5ODQz/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.vtvprime.vn/M96ekI4gpf9WUxpqAmy1nllgMjfYwdKRfYRifrwCxUk/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjg2YTM1ZGMtYWYzNS00MGNmLWE2ZjUtMWI1YmE3YTY2NTUxLnBuZw==.png", HY | TH Hưng Yên
 #https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
@@ -238,6 +235,8 @@ https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="angiang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/ATV2_logo.png/revision/latest/scale-to-width-down/800?cb=20250708151238&path-prefix=vi",ATV2 | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="angiang3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",ATV3 | TH An Giang
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="gialai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_640_360.png",GTV | TH Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qYLnK2V/camautv-BEARTV.png", CTV | TH Cà Mau
@@ -274,6 +273,7 @@ http://akasaijr.myftp.org:21585/axn/index.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
