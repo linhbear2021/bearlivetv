@@ -171,9 +171,9 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/09/05/vinh-long-5_270-15905-09-2025_11g23-27.png", THVL5 | Vĩnh Long 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | Hà Nội 1
-https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_w1295074949_b3128000_slen.m3u8
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w650519775_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
-https://cecex9g5cpliv.vcdn.cloud/events/HN2/chunklist_w344717809.m3u8
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w2031188220.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/TTV_Tuyen_Quang_logo_2014.png/revision/latest?cb=20230315043525&path-prefix=vi", TTV | Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="laocai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest?cb=20211224040641&path-prefix=vi",THLC | TH Lào Cai
@@ -273,6 +273,7 @@ http://akasaijr.myftp.org:21585/axn/index.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
