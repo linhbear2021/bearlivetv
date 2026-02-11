@@ -37,11 +37,11 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri"group-title="VTVCab" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png",ON Vie GIẢI TRÍ
 #https://nextx.live/360/180/index.m3u8
-#https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png", ON Phim Việt
 #https://nextx.live/360/175/index.m3u8
-#https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVCab" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png" ,ON MOVIES
 #https://nextx.live/360/181/index.m3u8
@@ -273,6 +273,7 @@ http://akasaijr.myftp.org:21585/axn/index.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
