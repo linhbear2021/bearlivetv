@@ -175,7 +175,7 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w650519775_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
-https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w2031188220.m3u8
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w848531727_b1064000_slen.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/TTV_Tuyen_Quang_logo_2014.png/revision/latest?cb=20230315043525&path-prefix=vi", TTV | Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="laocai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest?cb=20211224040641&path-prefix=vi",THLC | TH Lào Cai
@@ -312,6 +312,7 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+
 
 
 
