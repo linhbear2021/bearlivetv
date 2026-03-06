@@ -302,8 +302,9 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:-1 tvg-id="tv360plus9" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360 1
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360plus9" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360 2
+#EXTINF:-1 tvg-id="tv360plus8" group-title="KÊNH QUỐC TẾ" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360 2
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-8/KenhCoBan.m3u8
+
 
 
 
