@@ -123,9 +123,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Test",10h00 ngày 14/3
-https://kul-vdata.terabox.com/nest/ts/get/5693a61db289c071d22a6778a4109063?src_id=830ddc1156ba2b5bbb20ac4048a61b5f&start=0&len=669092&src=n-nst-hybcloud-ts-830ddc1156ba2b5bbb20ac4048a61b5f_1073_2&time=1773456698&local=1&msgtype=kul&tot=bBKEK&logid=527458163167481630&by=go-streaming
-
 
 
 
