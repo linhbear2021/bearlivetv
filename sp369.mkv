@@ -124,8 +124,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Test",1
-https://dm.terabox.com/api/streaming?path=%2FFrom%EF%BC%9AV2116%2FDCIM%2FDCIM%2FCamera%2Fvideo_20240810_150607.mp4&app_id=250528&clienttype=0&type=M3U8_AUTO_360&vip=0|Referer=
-https://dm.terabox.com/vietnamese/play/video?path=%2FFrom%EF%BC%9AV2116%2FDCIM%2FDCIM%2FCamera%2Fvideo_20240810_150607.mp4&t=-1
+https://dm.terabox.com/api/streaming?path=%2FFrom%EF%BC%9AV2116%2FDCIM%2FDCIM%2FCamera%2Fvideo_20240810_150607.mp4&app_id=250528&clienttype=0&type=M3U8_AUTO_360&vip=0|Referer=https://dm.terabox.com/
 
 
 
