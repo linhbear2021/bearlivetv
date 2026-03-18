@@ -402,4 +402,6 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=122888&extension=ts&play_token=LB2IN39AIF
 
