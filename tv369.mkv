@@ -222,7 +222,7 @@ https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w685356133_b1384000.m3u8
 #EXTINF:-1 tvg-id="lamdong2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/LTV2_Lam_Dong_logo.png/revision/latest?cb=20251021013924&path-prefix=vi", LTV2 | TH Lâm Đồng
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png", ĐNRTV1 | TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://github.com/ntd249/logochannel/blob/main/DNNRTV1_DongNai.png", ĐNRTV1 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png", ĐNRTV2 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
