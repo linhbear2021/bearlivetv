@@ -280,7 +280,8 @@ https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 7
 https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 8
-https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
+#https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
+https://scontent.fhan3-2.fna.fbcdn.net/hvideo-ftw-frc/_nc_cat-107/_nc_sr_t-4/v/rASeqQkyxAbcg-MrJMBt_6H0fCSN7h4tqj4_Clk9w1k2otA/_nc_ohc-xk-tztvBqGsQ7kNvwEM7V6J/live-dash/dash-abr-ibr-audio/929421116609950.mpd?_nc_eui2=AeHM1w8RTN2M8hqiibhejHc4RzocWILYyT5HOhxYgtjJPntgRHBXbSYg7cvBtmYtXf1YtG7inyJ8_9fbdApnKHoL&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_Afy8G-b865z29FY6E56grIgiuMF-aJVY_9mu_fdsaDdnNg&oe=69C1A406
 
 #EXTINF:-1 group-title="SỰ KIỆN VTVPrime" tvg-logo="https://promotion.sony.com.vn:5001/storage/2026/02/25/VTVprime.png", VTVPrime 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
