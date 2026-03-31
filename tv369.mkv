@@ -217,7 +217,7 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="lamdong1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/CpxL1H1k/LAMDONG1-BEARTV.png", LTV1 | TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w685356133_b1384000.m3u8
-#EXTINF:-1 tvg-id="lamdong2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/m5x2D5Yg/LAMDONG2-BEARTV.jpg", LTV2 | TH Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.vtvprime.vn/Yzv08F6xa0VsdRzMVD5ElpMhPPPL8Rd_VC43xgTuT-8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDMwNTM5YWQtNTZiMC00NjJkLTg4MmMtNzBkZDk1Y2E0YmViLnBuZw==.png", LTV2 | TH Lâm Đồng
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0pWXvrk1/DONGNAI1-BEARTV.png", ĐNRTV1 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
