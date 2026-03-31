@@ -176,7 +176,7 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w650519775_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w848531727_b1064000_slen.m3u8
-#EXTINF:-1 tvg-id="tuyenquang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/TTV_Tuyen_Quang_logo_2014.png/revision/latest?cb=20230315043525&path-prefix=vi", TTV | Tuyên Quang
+#EXTINF:-1 tvg-id="tuyenquang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/6RPgRE7.png", TTV | Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="laocai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest?cb=20211224040641&path-prefix=vi",THLC | TH Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
@@ -199,7 +199,7 @@ https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/kGGqYXp/Phu-Tho-BEARTV.png", PTV | TH Phú Thọ
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ninhbinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/10/1751255653439/65f2aec7d29f_480_270.png", NTV | TH Ninh Bình
+#EXTINF:-1 tvg-id="ninhbinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XuYnZWe.png", NTV | TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png", TTV | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
