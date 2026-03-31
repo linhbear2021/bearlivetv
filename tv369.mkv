@@ -32,9 +32,9 @@ https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://img.vtvprime.vn/07qhv2sD9t_A4BNGmPkgSXbPK6H2KXoi7VRKtjnDTOQ/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzc0ZjViMTMtMTJiNC00YWM5LWFjOTYtODUxOWUwYWE3ZGJiLnBuZw==.png",QUỐC PHÒNG VIỆT NAM
+#EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/PZD30NgG/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",VIETNAM TODAY
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/rRv4mrQ6/VIETNAMTODAY-BEARTV.png",VIETNAM TODAY
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 
