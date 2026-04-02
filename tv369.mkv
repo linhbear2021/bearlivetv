@@ -138,8 +138,6 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/10/HTV4_logo_2014-2018.png/revision/latest?cb=20180814115707&path-prefix=vi", HTV4
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="btv9" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HTV5_Bchannel.png/250px-HTV5_Bchannel.png", HTV5
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://img.vtvprime.vn/zDaiE9NLaXGlis-i1_-BcnvL2Hsom_u8cOBK9A_qNSs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzI3MzAxYjAtNWY5MS00Y2RmLWJkMDAtMmU0YTdiYTc4ODRiLnBuZw==.png" group-title="HTV",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9
@@ -277,6 +275,8 @@ https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 7
+https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 8
 https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN VTVPrime" tvg-logo="https://promotion.sony.com.vn:5001/storage/2026/02/25/VTVprime.png", VTVPrime 1
