@@ -138,7 +138,7 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/10/HTV4_logo_2014-2018.png/revision/latest?cb=20180814115707&path-prefix=vi", HTV4
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="btv9" group-title="HTV" tvg-logo="https://i.ibb.co/VpgrwJN5/HTV5-BEARTV.png", HTV5
+#EXTINF:-1 tvg-id="btv9" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HTV5_Bchannel.png/250px-HTV5_Bchannel.png", HTV5
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://img.vtvprime.vn/zDaiE9NLaXGlis-i1_-BcnvL2Hsom_u8cOBK9A_qNSs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzI3MzAxYjAtNWY5MS00Y2RmLWJkMDAtMmU0YTdiYTc4ODRiLnBuZw==.png" group-title="HTV",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
