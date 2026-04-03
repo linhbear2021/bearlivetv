@@ -138,9 +138,9 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/V0D7FWXw/HTV4-BEARTV.webp", HTV4
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://img.vtvprime.vn/zDaiE9NLaXGlis-i1_-BcnvL2Hsom_u8cOBK9A_qNSs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzI3MzAxYjAtNWY5MS00Y2RmLWJkMDAtMmU0YTdiYTc4ODRiLnBuZw==.png" group-title="HTV",HTV7
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/Dgkz7wHW/HTV7-BEARTV.png" group-title="HTV",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9
+#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/x8B50Yk9/HTV9-BEARTV.png" group-title="HTV",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV THỂ THAO
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
