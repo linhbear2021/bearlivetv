@@ -233,11 +233,11 @@ https://live.canthotv.vn/live/tv/chunklist_w1206566478.m3u8
 https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jPF0Mv9R/CANTHO3-BEARTV.png", CẦN THƠ 3 | TH Cần Thơ
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="angiang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | TH An Giang
+#EXTINF:-1 tvg-id="angiang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LXx2Gyyy/ANGIANG1-BEARTV.png",ATV1 | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="angiang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | TH An Giang
+#EXTINF:-1 tvg-id="angiang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/C3kqTmv2/ANGIANG2-BEARTV.png",ATV2 | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="angiang3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV3_AnGiang.png",ATV3 | TH An Giang
+#EXTINF:-1 tvg-id="angiang3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jkP9CvHZ/ANGIANG3-BEARTV.png",ATV3 | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="gialai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sd6g8ZVn/GIALAI-BEARTV.png",GTV | TH Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
