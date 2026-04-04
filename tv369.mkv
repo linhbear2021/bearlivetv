@@ -280,10 +280,12 @@ https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 7
-https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 8
-https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 7 Test
+#https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
+https://vietanhtv.id.vn/tv360/9868/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/LOGO_FPT_Play.png", EVENT 8 Test
+#https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
+https://vietanhtv.id.vn/tv360/174/index.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN VTVPrime" tvg-logo="https://promotion.sony.com.vn:5001/storage/2026/02/25/VTVprime.png", VTVPrime 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
