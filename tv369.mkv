@@ -162,21 +162,21 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 
 
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Tx9QSLKq/VINHLONG1-BEARTV.png", THVL1 | Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Tx9QSLKq/VINHLONG1-BEARTV.png", THVL1 | TH Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/BH4DcZKr/VINHLONG2-BEARTV.png", THVL2 | Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/BH4DcZKr/VINHLONG2-BEARTV.png", THVL2 | TH Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fk1MpK7J/VINHLONG3-BEARTV.png", THVL3 | Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fk1MpK7J/VINHLONG3-BEARTV.png", THVL3 | TH Vĩnh Long 3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/1JwDSsRL/VINHLONG4-BEARTV.png", THVL4 | Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/1JwDSsRL/VINHLONG4-BEARTV.png", THVL4 | TH Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png", THVL5 | Vĩnh Long 5
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png", THVL5 | TH Vĩnh Long 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | Hà Nội 1
+#EXTINF:-1 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png", HN1 | TH Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w650519775_b3128000_slen.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", HN2 | TH Hà Nội 2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w848531727_b1064000_slen.m3u8
-#EXTINF:-1 tvg-id="tuyenquang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4gPgD2y1/TUYENQUANG-BEARTV.png", TTV | Tuyên Quang
+#EXTINF:-1 tvg-id="tuyenquang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4gPgD2y1/TUYENQUANG-BEARTV.png", TTV | TH Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/60k1mVrG/LANGSON-BEARTV.png", LSTV | TH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
@@ -213,9 +213,9 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QjqPxh3r/HATINH-BEARTV.png", BHT | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w237296675.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xt86qZ9F/DANANG1-BEARTV.png", DNRT1 | Đà Nẵng 1
+#EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xt86qZ9F/DANANG1-BEARTV.png", DNRT1 | TH Đà Nẵng 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ds1M2NBF/DANANG2-BEARTV.png", DNRT2 | Đà Nẵng 2
+#EXTINF:-1 tvg-id="danang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ds1M2NBF/DANANG2-BEARTV.png", DNRT2 | TH Đà Nẵng 2
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangngai"group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest?cb=20260114143704&path-prefix=vi", QNG | TH Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
