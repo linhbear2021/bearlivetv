@@ -224,7 +224,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/934QKLt3/DONGNAI2-BEARTV.png", ĐNRTV2 | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/h1KqTWC3/DONGTHAP1-BEARTV.png", THĐT1 | TH Đồng Tháp
-https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/rGYXmSFH/DONGTHAP2-BEARTV.png", THĐT2 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1960850120.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/gFmN4vjq/CANTHO1-BEARTV.png", CẦN THƠ 1 | TH Cần Thơ
@@ -237,8 +237,8 @@ https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="angiang2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/C3kqTmv2/ANGIANG2-BEARTV.png",ATV2 | TH An Giang
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="angiang3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jkP9CvHZ/ANGIANG3-BEARTV.png",ATV3 | TH An Giang
-https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="khanhhoa" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.vtvprime.vn/la86tbUKl1soy7JvoNwyLIMy93UNchulPC31dzUyCho/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZjRmMzM2YTYtZjk2Zi00ZThkLWJkMDgtMDI4NTBjZThmMGQzLnBuZw==.png",KTV | TH Khánh Hòa
+https://liveh12byt.vtvprime.vn/hls/KHANHHOATV/03.m3u8
 #EXTINF:0 tvg-id="gialai" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sd6g8ZVn/GIALAI-BEARTV.png",GTV | TH Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/FkMrnCvP/CAMAU-BEARTV.png", CTV | TH Cà Mau
