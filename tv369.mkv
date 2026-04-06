@@ -250,39 +250,39 @@ https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/FkMrnCvP/CAMAU-BEARTV.png", CTV | TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 1
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 2
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 3
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 4
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 5
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 5
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 6
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 7
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 7
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 8
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", SỰ KIỆN 8
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 1
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 2
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 2
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 3
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 3
 https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 4
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 4
 https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 5
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 6
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 7
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 7
 https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN FPT" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 8
+#EXTINF:-1 group-title="SỰ KIỆN FPT Play" tvg-logo="https://i.ibb.co/j9Y0vCXn/FPTPlay-BEARTV.png", EVENT 8
 https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN VTVPrime" tvg-logo="https://i.ibb.co/dsD5FG9n/VTVprime-BEARTV.webp", VTVPrime 1
