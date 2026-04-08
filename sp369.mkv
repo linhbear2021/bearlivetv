@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 
-#EXTM3U BEARTV - sptv369
+#EXTM3U BEARTV - sptv369 http://btn.myftp.org/nhamng.mkv
 
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
