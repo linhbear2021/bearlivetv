@@ -2,7 +2,7 @@
 
 #EXTM3U BEARTV - tivi369
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://c2v81l3bhaliv.vcdn.cloud/livesnv2/VTV1_HD/manifest.mpd?startTime=${start}&stopTime=${offset}",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
